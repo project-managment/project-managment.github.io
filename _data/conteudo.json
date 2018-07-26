@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Notas de aula",
+    "url": "/lectures"},
+  {
+    "title": "Cronograma",
+    "url": "/dates"},
+  {
+    "title": "Avaliações",
+    "url": "/exams"},
+  {
+    "title": "Links",
+    "url": "/bibliography"},
+  {
+    "title": "whatsapp",
+    "url": "https://chat.whatsapp.com/2Tdq8G8nBTM8grMcFzJLJJ"},
+  {
+    "title": "CADES",
+    "url": "https://github.com/cades-ifrn/sobre"}
+]
