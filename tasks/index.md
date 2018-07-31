@@ -7,3 +7,8 @@
 | aluno | Tempo | App |
 | --- | --- | --- |
 | Minora | 1h | [bloco de notas](http://bulletjournal.com/) |
+
+### [Conceitos fundamentais de projetos](fundamentos/projeto/)
+
+| aluno | link do resumo |
+| --- | --- |
