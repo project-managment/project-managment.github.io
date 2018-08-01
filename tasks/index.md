@@ -7,9 +7,11 @@
 | aluno | Tempo | App |
 | --- | --- | --- |
 | Minora | 1h | [bloco de notas](http://bulletjournal.com/) |
+|Jamiry|3h | Whats e YouTube|
+
 
 ### [Conceitos fundamentais de projetos](fundamentos/projeto/)
 
 | aluno | link do resumo |
 | --- | --- |
-|Jamiry |3h  | whats e YouTube
+
