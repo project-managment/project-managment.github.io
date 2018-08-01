@@ -10,4 +10,4 @@
 
 | aluno | link do resumo |
 | --- | --- |
-| Astro | [Resumo](project-managment.github.io/tasks/fundamentos/projeto/resumo-astro.md)|
+| Astro | [Resumo](resumo-astro.md)|
