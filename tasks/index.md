@@ -14,6 +14,6 @@
 
 | aluno | link do resumo |
 | --- | --- |
-|jamiry|(https://github.com/jamiry/GerenciaProjeto/blob/master/Resumo/index.md)|
+|jamiry| [Resumo](https://github.com/jamiry/GerenciaProjeto/blob/master/Resumo/index.md)|
 
 
