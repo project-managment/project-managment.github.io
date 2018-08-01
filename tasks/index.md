@@ -12,3 +12,4 @@
 
 | aluno | link do resumo |
 | --- | --- |
+|Jamiry |3h  | whats e YouTube
