@@ -11,5 +11,6 @@
 
 ### [Conceitos fundamentais de projetos](fundamentos/projeto/)
 
-| aluno | link do resumo |
+| Aluno | Link do resumo |
 | --- | --- |
+| Astro| [Resumo](fundamentos/projeto/resumo-astro.md) |
