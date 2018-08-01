@@ -10,3 +10,4 @@
 
 | aluno | link do resumo |
 | --- | --- |
+|Jamiry |(https://github.com/jamiry/GerenciaProjeto/blob/master/Resumo/index.md)|
