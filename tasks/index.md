@@ -14,4 +14,5 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Astro| [Resumo](fundamentos/projeto/resumo-astro.md) |
+| Astro | [Resumo](fundamentos/projeto/resumo-astro.md) |
+| Yves | [Resumo](fundamentos/projeto/resumo-yves.md) |
