@@ -8,6 +8,9 @@
 
 ## sumário
 
-| aluno | link do resumo |
+| Aluno | Link do resumo |
 | --- | --- |
-|Jamiry |(https://github.com/jamiry/GerenciaProjeto/blob/master/Resumo/index.md)|
+| Astro | [Resumo](resumo-astro.md) |
+| Jamiry |(https://github.com/jamiry/GerenciaProjeto/blob/master/Resumo/index.md)|
+| Minora | [resumo](minora) |
+| Yves | [Resumo](resumo-yves.md) |
