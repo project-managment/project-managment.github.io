@@ -12,3 +12,4 @@
 
 | aluno | link do resumo |
 | --- | --- |
+| Minora | [resumo](tasks/fundamentos/projeto/minora) |

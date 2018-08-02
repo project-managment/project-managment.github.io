@@ -10,3 +10,4 @@
 
 | aluno | link do resumo |
 | --- | --- |
+| Minora | [resumo](minora) |
