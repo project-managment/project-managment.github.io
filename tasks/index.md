@@ -14,5 +14,6 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Astro | [Resumo](fundamentos/projeto/resumo-astro.md) |
-| Yves | [Resumo](fundamentos/projeto/resumo-yves.md) |
+| Astro | [Resumo](tasks/fundamentos/projeto/resumo-astro) |
+| Minora | [resumo](tasks/fundamentos/projeto/minora) |
+| Yves | [Resumo](tasksfundamentos/projeto/resumo-yves) |

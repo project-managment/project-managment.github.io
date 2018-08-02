@@ -10,4 +10,6 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Astro | [Resumo](resumo-astro.md)|
+| Astro | [Resumo](resumo-astro.md) |
+| Minora | [resumo](minora) |
+| Yves | [Resumo](resumo-yves.md) |
