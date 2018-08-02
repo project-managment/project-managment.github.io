@@ -8,6 +8,8 @@
 
 ## sumário
 
-| aluno | link do resumo |
+| Aluno | Link do resumo |
 | --- | --- |
+| Astro | [Resumo](resumo-astro.md) |
 | Minora | [resumo](minora) |
+| Yves | [Resumo](resumo-yves.md) |
