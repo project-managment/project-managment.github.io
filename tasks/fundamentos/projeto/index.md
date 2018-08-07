@@ -11,5 +11,6 @@
 | Aluno | Link do resumo |
 | --- | --- |
 | Astro | [Resumo](resumo-astro.md) |
+| Jamiry |(https://github.com/jamiry/GerenciaProjeto/blob/master/Resumo/index.md)|
 | Minora | [resumo](minora) |
 | Yves | [Resumo](resumo-yves.md) |
