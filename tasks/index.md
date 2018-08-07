@@ -28,7 +28,7 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
-
+| Astro | [resumo](fundamentos/management/resumo-astro) |
 
 ### 4. [Conceitos fundamentais de ciclo de vida](fundamentos/life-cycle/)
 
