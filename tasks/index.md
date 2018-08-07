@@ -34,3 +34,4 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
+| Minora | [resumo](basics/life-cyle/resumo-minora)
