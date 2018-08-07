@@ -10,6 +10,8 @@
 | Jamiry |3h | Whats e YouTube |
 | Minora | 1h | [bloco de notas](http://bulletjournal.com/) |
 | Yves | ~3h | [RealizD](http://www.realizd.com/) |
+| Astro | 4h35m - 6h17m | [RealizD](http://www.realizd.com/) |
+| Tati | 5h48m - 8h29m | [QualityTime](http://www.qualitytimeapp.com/)|
 
 
 ### 2. [Conceitos fundamentais de projetos](fundamentos/projeto/)
