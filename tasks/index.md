@@ -14,23 +14,23 @@
 | Tati | 5h48m - 8h29m | [QualityTime](http://www.qualitytimeapp.com/)|
 
 
-### 2. [Conceitos fundamentais de projetos](fundamentos/projeto/)
+### 2. [Conceitos fundamentais de projetos](basics/projeto/)
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Astro | [Resumo](fundamentos/projeto/resumo-astro) |
-| Jamiry | [Resumo](fundamentos/projeto/resumo-jamiry)|
-| Minora | [resumo](fundamentos/projeto/minora) |
-| Yves | [Resumo](fundamentos/projeto/resumo-yves) |
+| Astro | [Resumo](basics/project/resumo-astro) |
+| Jamiry | [Resumo](basics/project/resumo-jamiry)|
+| Minora | [resumo](basics/project/minora) |
+| Yves | [Resumo](basics/project/resumo-yves) |
 
 
-### 3. [Conceitos fundamentais de gerência](fundamentos/management/)
+### 3. [Conceitos fundamentais de gerência](basics/management/)
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Astro | [resumo](fundamentos/management/resumo-astro) |
+| Astro | [resumo](basics/management/resumo-astro) |
 
-### 4. [Conceitos fundamentais de ciclo de vida](fundamentos/life-cycle/)
+### 4. [Conceitos fundamentais de ciclo de vida](basics/life-cycle/)
 
 | Aluno | Link do resumo |
 | --- | --- |
