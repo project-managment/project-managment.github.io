@@ -11,5 +11,6 @@
 | Aluno | Link do resumo |
 | --- | --- |
 | Astro | [Resumo](resumo-astro.md) |
+| Jamiry | [resumo](resumo-jamiry)|
 | Minora | [resumo](minora) |
 | Yves | [Resumo](resumo-yves.md) |
