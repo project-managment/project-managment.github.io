@@ -11,4 +11,6 @@
 | Aluno | Link do resumo |
 | --- | --- |
 | Astro | [resumo](resumo-astro) |
+| Jamiry | [resumo](resumo-jamiry) |
+| Leonardo | [resumo](resumo-leo) |
 | Yves | [Resumo](resumo-yves) |
