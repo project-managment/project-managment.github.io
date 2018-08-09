@@ -11,4 +11,4 @@
 | Aluno | Link do resumo |
 | --- | --- |
 | Astro | [resumo](resumo-astro) |
-| Astro | [Resumo](resumo-yves) |
+| Yves | [Resumo](resumo-yves) |
