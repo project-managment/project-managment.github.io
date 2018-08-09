@@ -34,3 +34,8 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
+
+### 5. [Conceitos fundamentais de PMI/PMBOK](basics/life-cycle/)
+
+| Aluno | Link do resumo |
+| --- | --- |
