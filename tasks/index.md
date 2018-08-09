@@ -14,19 +14,10 @@
 | Tati | 5h48m - 8h29m | [QualityTime](http://www.qualitytimeapp.com/)|
 
 
-<<<<<<< HEAD
 ### 2. [Conceitos fundamentais de projetos](basics/project/)
-=======
-### 2. [Conceitos fundamentais de projetos](basics/projeto/)
->>>>>>> 9d1de8ad9402d7a7ae178a1320a0228853f389e8
 
 ### 3. [Conceitos fundamentais de gerência](basics/management/)
 
 ### 4. [Conceitos fundamentais de ciclo de vida](basics/life-cycle/)
 
-<<<<<<< HEAD
 ### 5. [Conceitos fundamentais de PMI/PMBOK](basics/pmbok/)
-=======
-### 5. [Conceitos fundamentais de PMI/PMBOK](basics/life-cycle/)
-
->>>>>>> 9d1de8ad9402d7a7ae178a1320a0228853f389e8

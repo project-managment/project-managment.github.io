@@ -2,12 +2,12 @@
 
 ## Tarefa
 
-1. Preparação
+- Preparação
   1. Leitura: [Conceitos fundamentais de projetos](https://sites.google.com/site/gerenciadeprojetosdeti/aulas-1/6---grupos-de-processos-e-areas-de-conhecimento-de-gestao-de-projeto)
   2. Resumir o texto
-2. Avaliação
+- Avaliação
   1. Responder as perguntas na roda
-3. Pós aula
+- Pós aula
   1. criar um arquivo com ```resumo-nome.md``` e redigir um resumo da leitura
   2. colocar link para o arquivo nesta página e em [index](../../index.md)
 
