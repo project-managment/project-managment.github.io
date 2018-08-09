@@ -22,6 +22,7 @@
 | Jamiry | [Resumo](basics/project/resumo-jamiry)|
 | Minora | [resumo](basics/project/minora) |
 | Yves | [Resumo](basics/project/resumo-yves) |
+| Leonardo | [Resumo](basics/project/resumo-leo) |
 
 
 ### 3. [Conceitos fundamentais de gerência](basics/management/)
@@ -29,7 +30,7 @@
 | Aluno | Link do resumo |
 | --- | --- |
 | Astro | [resumo](basics/management/resumo-astro) |
-
+| Leonardo | [Resumo](basics/management/resumo-leo) |
 ### 4. [Conceitos fundamentais de ciclo de vida](basics/life-cycle/)
 
 | Aluno | Link do resumo |
