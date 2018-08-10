@@ -12,5 +12,6 @@
 | --- | --- |
 | Astro | [Resumo](resumo-astro.md) |
 | Jamiry | [resumo](resumo-jamiry)|
+| Leonardo | [resumo](resumo-leo)|
 | Minora | [resumo](minora) |
 | Yves | [Resumo](resumo-yves.md) |
