@@ -2,15 +2,11 @@
 
 ## 1o Bimestre
 
-### Cronometrar o tempo gasto com celular
+Avaliações:
 
-| aluno | Tempo | App |
-| --- | --- | --- |
-| Minora | 1h | [bloco de notas](http://bulletjournal.com/) |
-| Astro | 4h35m - 6h17m | [RealizD](http://www.realizd.com/) |
-
-### [Conceitos fundamentais de projetos](fundamentos/projeto/)
-
-| Aluno | Link do resumo |
-| --- | --- |
-| Astro| [Resumo](fundamentos/projeto/resumo-astro.md) |
+1. [Cronometrar o tempo gasto com celular](time)
+2. [Registrar o uso do pomodoro](pomodoro)
+3. [Conceitos fundamentais de projetos](basics/project/)
+4. [Conceitos fundamentais de gerência](basics/management/)
+5. [Conceitos fundamentais de ciclo de vida](basics/life-cycle/)
+6. [Conceitos fundamentais de PMI/PMBOK](basics/pmbok/)
