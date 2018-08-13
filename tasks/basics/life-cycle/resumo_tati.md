@@ -1,9 +1,9 @@
- 3. Ciclo de vida do projeto de gestão de projeto
+ # 3. Ciclo de vida do projeto de gestão de projeto
 
 
 O conjunto de tarefas realizado em mesma ordem é um processo. Ações execultadas para alcançar um produto.
 
-# Processo é caracterizado por suas entradas, ferramentas e tecn
+Processo é caracterizado por suas entradas, ferramentas e tecn
 O conjunto de tarefas realizado em mesma ordem é um processo. Ações executadas para alcançar um produto.
 
 Processo é caracterizado por suas entradas, ferramentas e técnicas que podem ser plicadas, e os resultados, se ele envolve elaboração de um produto, chama-se ciclo de vida, que consiste em fases sequenciais que se sobrepõe .
