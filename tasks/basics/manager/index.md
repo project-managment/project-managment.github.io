@@ -28,6 +28,15 @@
   1. Leitura em grupo do texto [Você é um líder ou um gestor? Por que não os dois?](http://www.administradores.com.br/artigos/carreira/voce-e-um-lider-ou-um-gestor-por-que-nao-os-dois/96247/)
   2. Resumo em grupo
 2. Tarefa extra-sala de aula
+  - Objetivos
+    1. Resumo individual
+    2. Relato da experiência em sala de aula
+    3. Forçar o uso do pomodoro
+  - Pomodoros (25 + 5 / adpatável se o aluno desejar)
+    1. Planejar as atividades para cumprir os objetivos acima
+    2. Daqui em diante, as tarefas planejadas
+    3. ...
+
 
 - Sugestão de leitura:
   - [Qual o papel do gerente de projetos nos métodos ágeis?](https://www.projectbuilder.com.br/blog/qual-o-papel-do-gerente-de-projetos-nos-metodos-ageis/)
