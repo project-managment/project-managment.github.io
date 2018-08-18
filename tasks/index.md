@@ -10,3 +10,4 @@ Avaliações:
 4. [Conceitos fundamentais de gerência](basics/management/)
 5. [Conceitos fundamentais de ciclo de vida](basics/life-cycle/)
 6. [Conceitos fundamentais de PMI/PMBOK](basics/pmbok/)
+7. [Líder e Gerente](basics/manager/)
