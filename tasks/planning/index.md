@@ -16,6 +16,7 @@
 
 ## Referências
 
+- [Criar a estrutura analítica do projeto (EAP)](http://www.bitavel.com/portal/fotos/ar_eap_7034.pdf)
 - [Por que o planejamento do projeto é uma das etapas mais importante?](https://blog.ambracollege.com/planejamento-do-projeto-etapa-importante/)
 - [Como Planejar um Projeto Ágil: A Estratégia dos 3 Níveis](http://www.mindmaster.com.br/como-planejar-um-projeto-agil/)
 - Wikipedia
