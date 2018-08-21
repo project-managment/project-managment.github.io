@@ -10,8 +10,10 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
+| Arison | [Resumo](resumo-arison.md) | 
+| Astro | [Resumo](resumo-astro.md) | 
 | Jamiry | [resumo](resumo-jamiry.md) |
 | Leonardo | [resumo](resumo-leo.md) |
 | Minora | [resumo](minora.md) |
+| Tati | [resumo](resumo-tati) |
 | Yves | [Resumo](resumo-yves.md) |
-| Astro | [Resumo](resumo-astro.md) | 

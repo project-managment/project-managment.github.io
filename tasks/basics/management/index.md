@@ -10,6 +10,7 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
+| Arison | [resumo](resumo-arison) |
 | Astro | [resumo](resumo-astro) |
 | Jamiry | [resumo](resumo-jamiry) |
 | Leonardo | [resumo](resumo-leo) |
