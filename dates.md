@@ -10,14 +10,14 @@ layout: default
 | \# | dia | conteúdo |
 | :--- | :--- | :--- |
 | 01 | quinta-feira 26-07 | Introdução à disciplina |
-| 02 | terça-feira  31-07 |  |
-| 03 | quinta-feira 02-08 |  |
-| 04 | terça-feira  07-08 |  |
-| 05 | quinta-feira 09-08 | [DevOps e Docker](docker/index.md) |
-| 06 | terça-feira  14-08 |  |
-| 07 | quinta-feira 16-08 |  |
-| 08 | terça-feira  21-08 |  |
-| 09 | quinta-feira 23-08 |  |
+| 02 | terça-feira  31-07 | Projeto |
+| 03 | quinta-feira 02-08 | Gerência de projeto |
+| 04 | terça-feira  07-08 | Ciclo de vida de projeto |
+| 05 | quinta-feira 09-08 | Introdução ao PMI/PMBOK |
+| 06 | terça-feira  14-08 | Líder |
+| 07 | quinta-feira 16-08 | Líder e gerente |
+| 08 | terça-feira  21-08 | Planejamento |
+| 09 | quinta-feira 23-08 | Planning poker |
 | 10 | terça-feira  28-08 |  |
 | 11 | quinta-feira 30-08 |  |
 | 12 | terça-feira  04-09 |  |
