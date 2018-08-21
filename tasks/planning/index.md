@@ -18,7 +18,6 @@
 
 - [Por que o planejamento do projeto é uma das etapas mais importante?](https://blog.ambracollege.com/planejamento-do-projeto-etapa-importante/)
 - [Como Planejar um Projeto Ágil: A Estratégia dos 3 Níveis](http://www.mindmaster.com.br/como-planejar-um-projeto-agil/)
-- 
 - Wikipedia
   - [Planejamento de projetos](https://pt.wikipedia.org/wiki/Planejamento_de_projeto)
   - [Plano de projeto](https://pt.wikipedia.org/wiki/Plano_de_projeto)
