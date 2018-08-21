@@ -20,3 +20,4 @@
 
 | aluno | Média |
 | --- | --- |
+| Astro | ~2h30m |
