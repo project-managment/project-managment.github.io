@@ -20,4 +20,5 @@
 
 | aluno | Média |
 | --- | --- |
+| Astro | ~2h30m |
 | Tati | ~6h |

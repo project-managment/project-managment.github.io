@@ -15,6 +15,7 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
+| Astro | [Resumo](resumo-astro.md)|
 
 ## Perguntas
 1. O que são e qual(is) o(s) objetivo(s) dos grupos de processos?

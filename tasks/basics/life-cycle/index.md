@@ -10,7 +10,8 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Jamiry | [resumo](resumo-jamiry) |
-| Leonardo | [resumo](resumo-leo) |
-| Minora | [resumo](minora) |
-| Yves | [Resumo](resumo-yves) |
+| Jamiry | [resumo](resumo-jamiry.md) |
+| Leonardo | [resumo](resumo-leo.md) |
+| Minora | [resumo](minora.md) |
+| Yves | [Resumo](resumo-yves.md) |
+| Astro | [Resumo](resumo-astro.md) | 
