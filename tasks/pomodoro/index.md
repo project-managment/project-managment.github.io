@@ -10,6 +10,7 @@
 
 | aluno | Logs de pomodoro | App |
 | --- | --- | --- |
+| Minora | [log](pomodoro-minora) | Bloco de notas |
 
 ## Exemplo log das aulas
 
