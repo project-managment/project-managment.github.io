@@ -1,0 +1,3 @@
+#Resumo de Gestão de Projetos - Luiz Eduardo
+
+Gestão de projetos é uma forma de aplicar seus conhecimentos,habilidades e isso inclui metodologias,indicadores,avaliação de qualidade etc afim de obter o melhor resultado no final do seu projeto , O gerente é o responsavél por manter o projeto em ordem e no caminho certo , é a pessoa que vai analisar e determinar quais os melhores metódos a serem seguidos para seu projeto atingir o sucesso em tempo de execução , Além disso O gerente do projeto ideal deve possuir habilidades gerenciais (de liderança) e conhecimento técnico dos produtos a serem produzidos. 
