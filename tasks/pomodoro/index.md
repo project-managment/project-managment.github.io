@@ -9,6 +9,7 @@
 ## Logs
 
 | aluno | Logs de pomodoro | App |
+| --- | --- | --- |
 | Tatiara | 25-5 | Pomodoro Time |
 
 ## Exemplo log das aulas
