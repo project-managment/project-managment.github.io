@@ -14,10 +14,14 @@
 ## Tarefas exta sala
 1. Montar um plano para o semestre letivo baseado em [EAP](http://www.bitavel.com/portal/fotos/ar_eap_7034.pdf)
 
+|aluno | eap |
+| --- | --- |
+
 ## Planejamento dos projetos integradores
 
 - [bem](bem)
 - [smart alert](smartalert)
+
 
 ## Referências
 
