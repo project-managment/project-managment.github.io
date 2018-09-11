@@ -12,3 +12,8 @@ Avaliações:
 6. [Conceitos fundamentais de PMI/PMBOK](basics/pmbok/)
 7. [Líder e Gerente](basics/manager/)
 8. [Planejamento](planning/)
+9. Estimativa de tempo/esforço
+  1. [Introdução](estimates/introduction)
+  2. [Mythical man month](estimates/mythical-man-month)
+  3. [planning poker](estimates/poker)
+  4. [PERT CPM](estimates/pert)
