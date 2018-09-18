@@ -16,3 +16,4 @@
 | Leonardo | [resumo](resumo-leo) |
 | Luiz Eduardo | [resumo](resumo-luizeduardo) |
 | Yves | [Resumo](resumo-yves) |
+| Yuri | [Resumo](resumo-yuri) |
