@@ -18,4 +18,4 @@
 | Minora | [resumo](minora) |
 | Tati | [resumo](resumo-tati) |
 | Yves | [Resumo](resumo-yves) |
-| Yuri | [Resumo](resumo-yuri) |
+| Yuri | [Resumo](resumo-yuri.md) |
