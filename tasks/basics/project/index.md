@@ -17,3 +17,4 @@
 | Luiz Eduardo | [resumo](resume-luizeduardo) |
 | Minora | [resumo](minora) |
 | Yves | [Resumo](resumo-yves) |
+| Yuri | [Resumo](resumo-yuri) |
