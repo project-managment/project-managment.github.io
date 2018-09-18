@@ -14,4 +14,5 @@
 | Astro | [resumo](resumo-astro) |
 | Jamiry | [resumo](resumo-jamiry) |
 | Leonardo | [resumo](resumo-leo) |
+| Luiz Eduardo | [resumo](resumo-luizeduardo) |
 | Yves | [Resumo](resumo-yves) |

@@ -17,18 +17,18 @@ layout: default
 | 06 | terça-feira  14-08 | Líder |
 | 07 | quinta-feira 16-08 | Líder e gerente |
 | 08 | terça-feira  21-08 | Planejamento |
-| 09 | quinta-feira 23-08 | Planning poker |
-| 10 | terça-feira  28-08 |  |
-| 11 | quinta-feira 30-08 |  |
-| 12 | terça-feira  04-09 |  |
-| 13 | quinta-feira 06-09 |  |
-| 14 | terça-feira  11-09 |  |
-| 15 | quinta-feira 13-09 |  |
-| 16 | terça-feira  18-09 |  |
-| 17 | quinta-feira 20-09 |  |
-| 18 | terça-feira  25-09 |  |
-| 19 | quinta-feira 27-09 |  |
-| 20 | terça-feira  02-10 |  |
+| 09 | quinta-feira 23-08 | Trabalhos |
+| 10 | terça-feira  28-08 | EAP |
+| 11 | quinta-feira 30-08 | EAP |
+| 12 | terça-feira  04-09 | EAP |
+| 13 | quinta-feira 06-09 | Trabalhos |
+| 14 | terça-feira  11-09 | Estimativa |
+| 15 | quinta-feira 13-09 | Mythical man month |
+| 16 | terça-feira  18-09 | Planning poker |
+| 17 | quinta-feira 20-09 | Planning poker |
+| 18 | terça-feira  25-09 | PERT/CPM |
+| 19 | quinta-feira 27-09 | PERT/CPM |
+| 20 | terça-feira  02-10 | Entrega dos resultados |
 
 
 ## [](#header-2) 2o Bimestre
