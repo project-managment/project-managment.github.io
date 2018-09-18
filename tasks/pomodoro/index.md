@@ -11,7 +11,7 @@
 | Aluno | Logs de pomodoro | App |
 | --- | --- | --- |
 | Minora | [log](pomodoro-minora) | Bloco de notas |
-| Yves | [log](pomodoro-minora) | [Google Keep](https://keep.google.com) |
+| Yves | [log](pomodoro-yves) | [Google Keep](https://keep.google.com) |
 
 ## Exemplo log das aulas
 
