@@ -1,8 +1,5 @@
 # Resumo do texto 'Conceitos fundamentais de projetos'
 
-#### O que é Projeto?
-- Projeto pode ser descrito como esforço com tempo pré determinado (início e fim) que utiliza de recursos para a execução de uma ideia (escopo). O termo 'projeto' pode ser empregado em várias áreas porém o foco será projeto na área de software.
-
 #### Introdução
 - Projeto É um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo.
 - Plano para a realização de uma ação.
