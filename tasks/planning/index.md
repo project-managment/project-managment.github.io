@@ -16,7 +16,7 @@
 
 |aluno | eap |
 | --- | --- |
-
+| Yves | [Diagrama](images/EAP-Yves.jpg) |
 ## Planejamento dos projetos integradores
 
 - [bem](bem)
