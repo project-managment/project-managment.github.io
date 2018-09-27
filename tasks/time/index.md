@@ -16,6 +16,7 @@
 | Astro | 4h35m - 6h17m | [RealizD](http://www.realizd.com/) |
 | Tati | 5h48m - 8h29m | [QualityTime](http://www.qualitytimeapp.com/)|
 | Luiz Eduardo | 5h23m - 7h38m | [QualityTime](http://www.qualitytimeapp.com/)|
+| Yuri | 4h ~ 6h | [RealizD](http://www.realizd.com/) |
 
 
 

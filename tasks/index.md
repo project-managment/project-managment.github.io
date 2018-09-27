@@ -2,7 +2,7 @@
 
 ## 1o Bimestre
 
-Avaliações:
+**Avaliações**:
 
 1. [Cronometrar o tempo gasto com celular](time)
 2. [Registrar o uso do pomodoro](pomodoro)
@@ -17,7 +17,8 @@ Avaliações:
   2. [Mythical man month](estimates/mythical-man-month)
   3. [planning poker](estimates/poker)
 
-Entregas:
+
+**Entregas**:
 
 | #   | Aluno | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.1. | 9.2. | 9.3. |
 | --- | ---   | --- | --- | --- | --- | --- | --- | --- | --- | ---  | ---  | ---  |
@@ -30,7 +31,6 @@ Entregas:
 | 7 | Tatiara Thaís Cunha de Andrade | OK | -  | OK | -  | OK | -  | -  | -  | - | - | - |
 | 8 | Yuri da Silva Castelo Branco   | -  | -  | OK | OK | OK | -  | -  | -  | - | - | - |
 | 9 | Yves Cabral Mariano            | OK | OK | OK | OK | OK | -  | -  | OK | - | - | - |
-**Atividades**:
 
 
 ## 2o Bimestre
