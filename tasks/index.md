@@ -13,9 +13,9 @@
 7. [Líder e Gerente](basics/manager/)
 8. [Planejamento](planning/)
 9. Estimativa de tempo/esforço
-  1. [Introdução](estimates/introduction)
-  2. [Mythical man month](estimates/mythical-man-month)
-  3. [planning poker](estimates/poker)
+   1. [Introdução](estimates/introduction)
+   2. [Mythical man month](estimates/mythical-man-month)
+   3. [planning poker](estimates/poker)
 
 
 **Entregas**:
@@ -36,4 +36,5 @@
 ## 2o Bimestre
 
 1. Estimativa de tempo/esforço
-  1. [PERT CPM](estimates/pert)
+   1. [planning poker](estimates/poker)
+   2. [PERT CPM](estimates/pert)
