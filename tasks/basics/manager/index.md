@@ -65,4 +65,5 @@ Após a leitura do texto elencou-se alguns pontos por parte da turma:
 | Aluno | Tarefa |
 | --- | --- |
 | Arison | [tarefa](resumo-arison) |
+| Astro | [resumo](resumo-astro) |
 | Jamiry | [tarefa](resumo-jamiry) |
