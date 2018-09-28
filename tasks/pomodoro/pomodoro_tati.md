@@ -1,10 +1,8 @@
-# Resumos dos fundamentos sobre ciclo de vida
+# Pomodoro da Tati
 
 ## Tarefa
 
 1. Registrar tempo com a técnica [pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
-2. Fazer o logo dos dias 10 a 16 de agosto
-
 
 ## Logs
 
