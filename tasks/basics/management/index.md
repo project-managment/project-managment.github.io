@@ -17,3 +17,4 @@
 | Luiz Eduardo | [resumo](resumo-luizeduardo) |
 | Yves | [Resumo](resumo-yves) |
 | Yuri | [Resumo](resumo-yuri.md) |
+| Tatiara | [Resumo](resumo_tati.md) |
