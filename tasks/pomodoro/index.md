@@ -10,7 +10,9 @@
 
 | Aluno | Logs de pomodoro | App |
 | --- | --- | --- |
+| Astro | [log](pomodoro-astro) | Reminders |
 | Minora | [log](pomodoro-minora) | Bloco de notas |
+| Tati | [log](pomodoro-tati) | Bloco de notas |
 | Yves | [log](pomodoro-yves) | [Google Keep](https://keep.google.com) |
 
 ## Exemplo log das aulas
