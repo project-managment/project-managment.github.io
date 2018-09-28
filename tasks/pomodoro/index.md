@@ -8,13 +8,14 @@
 
 ## Logs
 
-| aluno | Logs de pomodoro | App |
+| Aluno | Logs de pomodoro | App |
 | --- | --- | --- |
-| Tatiara | 25-5 | Pomodoro Time |
+| Minora | [log](pomodoro-minora) | Bloco de notas |
+| Yves | [log](pomodoro-yves) | [Google Keep](https://keep.google.com) |
 
 ## Exemplo log das aulas
 
-### pmbok
+### PMBOK
 
 | Tempo | Tarefas planejadas | Tarefas executadas |
 | --- | --- | --- |
