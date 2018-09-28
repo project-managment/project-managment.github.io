@@ -10,8 +10,11 @@
 
 | Aluno | Link do resumo |
 | --- | --- |
-| Astro | [Resumo](resumo-astro.md) |
+| Arison | [resumo](resumo-arison) |
+| Astro | [Resumo](resumo-astro) |
 | Jamiry | [resumo](resumo-jamiry)|
 | Leonardo | [resumo](resumo-leo)|
+| Luiz Eduardo | [resumo](resume-luizeduardo) |
 | Minora | [resumo](minora) |
-| Yves | [Resumo](resumo-yves.md) |
+| Yves | [Resumo](resumo-yves) |
+| Yuri | [resumo](resumo-yuri.md) |

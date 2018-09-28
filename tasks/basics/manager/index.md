@@ -45,7 +45,7 @@
   - [Qual a diferença entre chefe, líder, gerente, supervisor e coordenador na estrutura organizacional?](https://www.treasy.com.br/blog/lider-chefe-gerente-coordenador-supervisor/)
 
 
-### Resumo
+### Tarefa 1 : Resumo
 
 Após a leitura do texto elencou-se alguns pontos por parte da turma:
 - A liderança trata-se de escolher o objetivo, mas isso não significa que ele vá se realizar no fim. Enquanto por outro lado tem-se a visão da gestão, mostrando como fazer aquele algo dá certo.
@@ -59,3 +59,10 @@ Após a leitura do texto elencou-se alguns pontos por parte da turma:
 - Líder pensa no todo, na missão. O gestor pensa no presente, na meta anual.
 - Um líder é a favor de riscos enquanto o gestor tem aversão a risco, assim o líder é um inovador nato enquanto o gestor gerencia o que já foi inovado.
 - "Um bom líder não necessariamente precisa agradar a todo mundo.” - Minora, Leonardo
+
+### Tarefa 2 : extra-sala de aula
+
+| Aluno | Tarefa |
+| --- | --- |
+| Arison | [tarefa](resumo-arison) |
+| Jamiry | [tarefa](resumo-jamiry) |

@@ -14,8 +14,18 @@
 ## Tarefas exta sala
 1. Montar um plano para o semestre letivo baseado em [EAP](http://www.bitavel.com/portal/fotos/ar_eap_7034.pdf)
 
+|aluno | eap |
+| --- | --- |
+| Yves | [Diagrama](images/EAP-Yves.jpg) |
+## Planejamento dos projetos integradores
+
+- [bem](bem)
+- [smart alert](smartalert)
+
+
 ## Referências
 
+- [Criar a estrutura analítica do projeto (EAP)](http://www.bitavel.com/portal/fotos/ar_eap_7034.pdf)
 - [Por que o planejamento do projeto é uma das etapas mais importante?](https://blog.ambracollege.com/planejamento-do-projeto-etapa-importante/)
 - [Como Planejar um Projeto Ágil: A Estratégia dos 3 Níveis](http://www.mindmaster.com.br/como-planejar-um-projeto-agil/)
 - Wikipedia
