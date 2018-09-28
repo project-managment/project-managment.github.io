@@ -19,6 +19,7 @@
 | Astro | [Resumo](resumo-astro) |
 | Jamiry | [resumo](resumo-jamiry) |
 | Leonardo | [resumo](resumo-leo) |
+| Tati | [resumo](resumo_tati) |
 
 ## Perguntas
 1. O que são e qual(is) o(s) objetivo(s) dos grupos de processos?
