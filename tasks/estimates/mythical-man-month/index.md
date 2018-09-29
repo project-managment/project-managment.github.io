@@ -32,6 +32,6 @@
 | 4 | Leonardo | resumo |
 | 5 | Luiz Eduardo | resumo |
 | 6 | Rafael | resumo |
-| 7 | Tatiara | resumo |
+| 7 | Tatiara |  [resumo](Tati-mythical-man-month-cap1-2-8.md) |
 | 8 | Yuri | resumo |
 | 9 | Yves | resumo |
