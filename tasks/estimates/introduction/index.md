@@ -31,6 +31,6 @@
 | 4 | Leonardo | resumo |
 | 5 | Luiz Eduardo | resumo |
 | 6 | Rafael | resumo |
-| 7 | Tatiara | resumo |
+| 7 | Tatiara | [resumo](tati_resumo.md) |
 | 8 | Yuri | resumo |
 | 9 | Yves | resumo |
