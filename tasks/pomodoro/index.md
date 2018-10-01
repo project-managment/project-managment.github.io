@@ -12,6 +12,7 @@
 | --- | --- | --- |
 | Minora | [log](pomodoro-minora) | Bloco de notas |
 | Yves | [log](pomodoro-yves) | [Google Keep](https://keep.google.com) |
+| Leo | [log](pomodoro-leo) | [Google Keep](https://keep.google.com) |
 
 ## Exemplo log das aulas
 
