@@ -1,4 +1,4 @@
-# Como estimar esforço de Desenvolvimento de software e por que isso é tão difícil?
+# Como estimar esforço de Desenvolvimento de software e por que isso é tão difícil? - Resumo dos textos part 1 e part 2
 
 - Fatores que impedem estimar software de forma adequada
 	- Requisios incompletos ou subjetivos demais.
