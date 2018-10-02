@@ -27,7 +27,7 @@
 | # | Aluno | Resumo |
 | --- | --- | --- |
 | 1 | Arison | resumo |
-| 2 | Astro | resumo |
+| 2 | Astro | [resumo](resumo-astro) |
 | 3 | Jamiry | resumo |
 | 4 | Leonardo | resumo |
 | 5 | Luiz Eduardo | resumo |
