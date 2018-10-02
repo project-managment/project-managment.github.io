@@ -1,4 +1,4 @@
-# The Mythical Man-Month
+# The Mythical Man-Month - Resumo dos cap 1, 2 e 8
 
 - "É necessário 3 vezes mais esforço para desenvolver um componente de software em relação a um software para uso privado, assim como 3 vezes mais esforço para trasformá-lo em um produto coerente e testado."
 
