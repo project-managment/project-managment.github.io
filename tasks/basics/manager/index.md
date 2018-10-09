@@ -66,3 +66,4 @@ Após a leitura do texto elencou-se alguns pontos por parte da turma:
 | --- | --- |
 | Arison | [tarefa](resumo-arison) |
 | Jamiry | [tarefa](resumo-jamiry) |
+| Yves | [tarefa](resumo-yves) |
