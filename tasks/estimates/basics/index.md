@@ -1,4 +1,4 @@
-# Estimativa de tempo/esforço :: Introdução
+# Estimativa de tempo/esforço :: Fundamentos, técnicas e modelos
 
 ## Objetivos
 - Conhecer os fundamentos, as técnicas, e os modelos de predição
