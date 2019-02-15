@@ -1,17 +1,22 @@
 [
   {
     "title": "Cronograma",
-    "url": "/dates"},
+    "url": "/dates"
+  },
   {
     "title": "Avaliações",
-    "url": "https://github.com/project-managment/2019.1"},
+    "url": "/tasks"
+  },
   {
     "title": "Links",
-    "url": "/bibliography"},
+    "url": "/bibliography"
+  },
   {
     "title": "whatsapp",
-    "url": "https://chat.whatsapp.com/2Tdq8G8nBTM8grMcFzJLJJ"},
+    "url": "https://chat.whatsapp.com/2Tdq8G8nBTM8grMcFzJLJJ"
+  },
   {
     "title": "CADES",
-    "url": "https://github.com/cades-ifrn/sobre"}
+    "url": "https://github.com/cades-ifrn/sobre"
+  }
 ]

@@ -1,57 +1,63 @@
-# Tarefas 2018.2
+# [](#header-1) Tarefas 2018.2
 
-## 1o Bimestre
+## [](#header-2) Orientações iniciais
+
+1. Fork no repositório no [github](https://github.com/project-managment/2019.1)
+2. Os trabalhos entregues devem ser colocados no repositório pessoal e requisitar um _pull request_
+3. A revisão será realizada semanalmente e pontuada aqui
+
+
+## [](#header-2) 1o Bimestre
 
 **Avaliações**:
 
 1. [Cronometrar o tempo gasto com celular](time)
-2. [Registrar o uso do pomodoro](pomodoro)
-3. [Conceitos fundamentais de projetos](basics/project/)
-4. [Conceitos fundamentais de gerência](basics/management/)
-5. [Conceitos fundamentais de ciclo de vida](basics/life-cycle/)
-6. [Conceitos fundamentais de PMI/PMBOK](basics/pmbok/)
-7. [Líder e Gerente](basics/manager/)
-8. [Planejamento](planning/)
-9. Estimativa de tempo/esforço
-   1. [Introdução](estimates/introduction)
-   2. [Mythical man month](estimates/mythical-man-month)
-   3. [planning poker](estimates/poker)
+2. [Conceitos fundamentais de projetos](basics/project/)
+3. [Conceitos fundamentais de gerência](.)
+4. [Conceitos fundamentais de ciclo de vida](.)
+5. [Conceitos fundamentais de USA PMI/PMBOK](.)
+6. [Conceitos fundamentais de UK PRINCE](.)
+7. [Conceitos fundamentais de UE PM2](.)
+8. [Líder e Gerente](.)
+9. [Planejamento](.)
+10. Estimativa de tempo/esforço
+   1. [Introdução](.)
+   2. [Mythical man month](.)
+   3. [planning poker](.)
+   4. [Pontos de função](.)
+
 
 
 **Entregas**:
 
-| #   | Aluno                          | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.1. | 9.2. | 9.3. |
-| --- | ------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---- | ---- |
-| 1   | Arison Raik Gomes Teotonio     | -   | -   | OK  | OK  | OK  | OK  | OK  | -   | -    | -    | -    |
-| 2   | Astrogilda Caroline da Silva   | OK  | -   | OK  | OK  | OK  | OK  | -   | -   | -    | -    | -    |
-| 3   | Jamiry Rosiely de Mesquita     | OK  | -   | OK  | OK  | OK  | OK  | OK  | -   | -    | -    | -    |
-| 4   | Leonardo Marques de Oliveira   | OK  | -   | OK  | OK  | OK  | OK  | -   | -   | -    | -    | -    |
-| 5   | Luiz Eduardo de Souza Dias     | OK  | -   | OK  | OK  | OK  | -   | -   | -   | -    | -    | -    |
-| 6   | Rafael Duarte de Lima          | -   | -   | -   | -   | -   | -   | -   | -   | -    | -    | -    |
-| 7   | Tatiara Thaís Cunha de Andrade | OK  | -   | OK  | -   | OK  | -   | -   | -   | -    | -    | -    |
-| 8   | Yuri da Silva Castelo Branco   | -   | -   | OK  | OK  | OK  | -   | -   | -   | -    | -    | -    |
-| 9   | Yves Cabral Mariano            | OK  | OK  | OK  | OK  | OK  | -   | -   | OK  | -    | -    | -    |
+| \#  | Aluno                               | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  | 10.1 | 10.2. | 10.3. | 10.4 |
+| --- | ----------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ----- | ----- | ---- |
+| 1   | Breno Oliveira da Silva             | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 2   | Daniel Bruno Santos Brito           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 3   | Davi Souto Neri                     | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 4   | Dayane Vitoria Leandro Cruz         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 5   | Emanoel Messias Gomes de Lima       | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 6   | Felipe Barbosa Nicolau Fernandes    | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 7   | Gésio de Moura                      | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 8   | Isaac Bruno Lima da Silva           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 9   | Jackson Leandro Arruda Ferreira     | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 10  | Joel Maykon Ribeiro de Lima         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 11  | Juan Felipe Ibanez Ferreira         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 12  | Lavinia Medeiros Miranda            | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 13  | Lucas Gabriel Amaro Pereira         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 14  | Lucas Matthaus Fonseca da Silva     | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 15  | Matheus Henrique de Souza           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 16  | Max Thayrese Lira e Silva           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 17  | Paulo Jeférson da Costa Gomes       | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 18  | Pedro Orlando de Albuquerque Duarte | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 19  | Raul Silva de Almeida               | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 20  | Rute Fernandes do Nascimento        | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 21  | Thiago Tierre de Lima               | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 22  | Tiago Caio de Oliveira Lisboa       | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 23  | Victor Wagner Dias Ribeiro          | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 
-
-## 2o Bimestre
+## [](#header-2) 2o Bimestre
 
 **Avaliações**:
 
-1. Estimativa de tempo/esforço
-   1. [planning poker](estimates/poker)
-   2. [Pontos de função](estimates/function_point)
-   3. [Fundamentos, técnicas e modelos](estimates/basics)
-
 **Entregas**:
-
-| #   | Aluno                          | 1.  | 2.  | 3.  |
-| --- | ------------------------------ | --- | --- | --- |
-| 1   | Arison Raik Gomes Teotonio     | -   | -   | -   |
-| 2   | Astrogilda Caroline da Silva   | -   | -   | -   |
-| 3   | Jamiry Rosiely de Mesquita     | -   | -   | -   |
-| 4   | Leonardo Marques de Oliveira   | -   | -   | -   |
-| 5   | Luiz Eduardo de Souza Dias     | -   | -   | -   |
-| 6   | Rafael Duarte de Lima          | -   | -   | -   |
-| 7   | Tatiara Thaís Cunha de Andrade | -   | -   | -   |
-| 8   | Yuri da Silva Castelo Branco   | -   | -   | -   |
-| 9   | Yves Cabral Mariano            | -   | -   | -   |

@@ -1,3 +1,8 @@
+# [](#header1) Links
+
+## [](#header2) Artigos
+
+- [Fatto consultoria: Medição, Estimativa e Requisitos de Software](http://fattocs.com/pt/recursos/artigos.html)
 
 ## [](#header2) livros
 

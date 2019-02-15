@@ -10,6 +10,6 @@ layout: default
   - Carga horária total: 120 horas/aula
   - Carga horária semanal: 4 horas/aula
   - Carga horária por bimestre: 10 semanas com carga-horária de 60 horas/aula
-- Horários e laboratório, Audiovisual 03
-  - terça-feira, 14:40 as 16:10
-  - quinta-feira, 13:00 as 14:30
+- Horários e laboratório, Laboratório 11
+  - quinta-feira, 10:30 as 12:00
+  - sexta-feira, 10:30 as 12:00

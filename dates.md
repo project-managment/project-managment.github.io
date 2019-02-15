@@ -7,52 +7,49 @@ layout: default
 
 ## [](#header-2) 1o Bimestre
 
-| \# | dia | conteúdo |
-| :--- | :--- | :--- |
-| 01 | quinta-feira 26-07 | Introdução à disciplina |
-| 02 | terça-feira  31-07 | Projeto |
-| 03 | quinta-feira 02-08 | Gerência de projeto |
-| 04 | terça-feira  07-08 | Ciclo de vida de projeto |
-| 05 | quinta-feira 09-08 | Introdução ao PMI/PMBOK |
-| 06 | terça-feira  14-08 | Líder |
-| 07 | quinta-feira 16-08 | Líder e gerente |
-| 08 | terça-feira  21-08 | Planejamento |
-| 09 | quinta-feira 23-08 | Trabalhos |
-| 10 | terça-feira  28-08 | EAP |
-| 11 | quinta-feira 30-08 | EAP |
-| 12 | terça-feira  04-09 | EAP |
-| 13 | quinta-feira 06-09 | Trabalhos |
-| 14 | terça-feira  11-09 | Estimativa |
-| 15 | quinta-feira 13-09 | Mythical man month |
-| 16 | terça-feira  18-09 | Planning poker |
-| 17 | quinta-feira 20-09 | Planning poker |
-| 18 | terça-feira  25-09 | PERT/CPM |
-| 19 | quinta-feira 27-09 | PERT/CPM |
-| 20 | terça-feira  02-10 | Entrega dos resultados |
+| \#   | dia                | conteúdo                 |
+| :--- | :----------------- | :----------------------- |
+| 01   | quinta-feira 14-02 | Aula inicial             |
+| 02   | sexta-feira  15-02 | Projeto                  |
+| 03   | quinta-feira 21-02 | Gerência de projeto      |
+| 04   | sexta-feira  22-02 | Ciclo de vida de projeto |
+| 05   | quinta-feira 28-02 | USA PMI/PMBOK            |
+| 06   | sexta-feira  01-03 | UK Prince2               |
+| 07   | quinta-feira 07-03 | UE PM 2                  |
+| 08   | sexta-feira  08-03 | Líder                    |
+| 09   | quinta-feira 14-03 | Líder e gerente          |
+| 10   | sexta-feira  15-03 | Planejamento             |
+| 11   | quinta-feira 21-03 | Estimativa               |
+| 12   | sexta-feira  22-03 |                          |
+| 13   | quinta-feira 28-03 |                          |
+| 14   | sexta-feira  29-03 |                          |
+| 15   | quinta-feira 04-04 |                          |
+| 16   | sexta-feira  05-04 |                          |
+| 17   | quinta-feira 11-04 |                          |
+| 18   | sexta-feira  12-04 | Entrega de resultados    |
 
 
 ## [](#header-2) 2o Bimestre
 
-| \# | dia | conteúdo |
-| :--- | :--- | :--- |
-| 01 | quinta-feira 04-10 |  |
-| 02 | terça-feira  09-10 |  |
-| 03 | quinta-feira 11-10 |  |
-| 04 | terça-feira  23-10 |  |
-| 05 | quinta-feira 25-10 |  |
-| 06 | terça-feira  30-10 |  |
-| 07 | quinta-feira 01-11 |  |
-| 08 | terça-feira  06-11 |  |
-| 09 | quinta-feira 08-11 |  |
-| 10 | terça-feira  13-11 |  |
-| 11 | terça-feira  20-11 |  |
-| 12 | quinta-feira 22-11 |  |
-| 13 | terça-feira  27-11 |  |
-| 14 | quinta-feira 29-11 |  |
-| 15 | terça-feira  04-12 |  |
-| 16 | quinta-feira 06-12 |  |
-| 17 | terça-feira  11-12 |  |
-| 18 | quinta-feira 13-12 | Entrega do resultado e autoavaliação |
-| 19 | terça-feira  18-12 | Recuperação |
-| 20 | ?? |  |
-
+| \#   | dia                | conteúdo                              |
+| :--- | :----------------- | :------------------------------------ |
+| 01   | terça-feira  09-10 |                                       |
+| 02   | quarta-feira 10-10 |                                       |
+| 03   | terça-feira  16-10 |                                       |
+| 04   | quarta-feira 17-10 |                                       |
+| 05   | terça-feira  23-10 |                                       |
+| 06   | quarta-feira 24-10 |                                       |
+| 07   | terça-feira  30-10 |                                       |
+| 08   | quarta-feira 31-10 |                                       |
+| 09   | terça-feira  06-11 |                                       |
+| 10   | quarta-feira 07-11 |                                       |
+| 11   | terça-feira  13-11 |                                       |
+| 12   | quarta-feira 14-11 |                                       |
+| 13   | terça-feira  20-11 |                                       |
+| 14   | terça-feira  27-11 |                                       |
+| 15   | quarta-feira 28-11 |                                       |
+| 16   | terça-feira  04-12 |                                       |
+| 17   | quarta-feira 05-12 |                                       |
+| 18   | terça-feira  11-12 |                                       |
+| 19   | quarta-feira 12-12 | Entrega de resultados e autoavaliação |
+| 20   | terça-feira  18-12 | Recuperação                           |
