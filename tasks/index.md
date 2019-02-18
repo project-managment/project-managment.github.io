@@ -32,10 +32,10 @@
 
 | \#  | Aluno                               | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | 9.  | 10.1 | 10.2. | 10.3. | 10.4 |
 | --- | ----------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ----- | ----- | ---- |
-| 1   | Breno Oliveira da Silva             | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 2   | Daniel Bruno Santos Brito           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 3   | Davi Souto Neri                     | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 4   | Dayane Vitoria Leandro Cruz         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 1   | Breno Oliveira da Silva             | Ok  | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 2   | Daniel Bruno Santos Brito           | -   | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 3   | Davi Souto Neri                     | Ok  | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 4   | Dayane Vitoria Leandro Cruz         | -   | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 5   | Emanoel Messias Gomes de Lima       | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 6   | Felipe Barbosa Nicolau Fernandes    | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 7   | Gésio de Moura                      | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
@@ -45,16 +45,16 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 12  | Lavinia Medeiros Miranda            | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 13  | Lucas Gabriel Amaro Pereira         | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 14  | Lucas Matthaus Fonseca da Silva     | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 14  | Lucas Matthaus Fonseca da Silva     | -   | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 15  | Matheus Henrique de Souza           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 16  | Max Thayrese Lira e Silva           | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 17  | Paulo Jeférson da Costa Gomes       | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 18  | Pedro Orlando de Albuquerque Duarte | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 18  | Pedro Orlando de Albuquerque Duarte | -   | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 19  | Raul Silva de Almeida               | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 20  | Rute Fernandes do Nascimento        | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 | 21  | Thiago Tierre de Lima               | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 22  | Tiago Caio de Oliveira Lisboa       | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
-| 23  | Victor Wagner Dias Ribeiro          | -   | -   | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 22  | Tiago Caio de Oliveira Lisboa       | -   | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
+| 23  | Victor Wagner Dias Ribeiro          | -   | Ok  | -   | -   | -   | -   | -   | -   | -   | -    | -     | -     | -    |
 
 ## [](#header-2) 2o Bimestre
 
