@@ -32,7 +32,7 @@
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
-| 19  | Raul Silva de Almeida               | -           | -         | -     | -     | -     | -     | -     | -     |
+| 19  | Raul Silva de Almeida               | QualityTime | 3h19m     | -     | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | -           | -         | -     | -     | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | -           | -         | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -61,7 +61,7 @@
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
-| 19  | Raul Silva de Almeida               | -               | -     | -     | -     | -     | -     | -     |
+| 19  | Raul Silva de Almeida               | WhatsApp (1h05) | -     | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | -               | -     | -     | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | -               | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -               | -     | -     | -     | -     | -     | -     |
