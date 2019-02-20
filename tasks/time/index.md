@@ -27,7 +27,7 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | -           | -         | -     | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
-| 14  | Lucas Matthaus Fonseca da Silva     | -           | -         | -     | -     | -     | -     | -     | -     |
+| 14  | Lucas Matthaus Fonseca da Silva     | QualityTime | 4h 41m    | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -56,7 +56,7 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -               | -     | -     | -     | -     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | -               | -     | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -               | -     | -     | -     | -     | -     | -     |
-| 14  | Lucas Matthaus Fonseca da Silva     | -               | -     | -     | -     | -     | -     | -     |
+| 14  | Lucas Matthaus Fonseca da Silva     | Spotify         | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -               | -     | -     | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
