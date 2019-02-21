@@ -23,7 +23,7 @@
 | 7   | Gésio de Moura                      | -           | -         | -     | -     | -     | -     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -           | -         | -     | -     | -     | -     | -     | -     |
-| 10  | Joel Maykon Ribeiro de Lima         | -           | -         | -     | -     | -     | -     | -     | -     |
+| 10  | Joel Maykon Ribeiro de Lima         | UBhid       | 19h 42min | -     | -     | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | -           | -         | -     | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -52,7 +52,7 @@
 | 7   | Gésio de Moura                      | -               | -     | -     | -     | -     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -               | -     | -     | -     | -     | -     | -     |
-| 10  | Joel Maykon Ribeiro de Lima         | -               | -     | -     | -     | -     | -     | -     |
+| 10  | Joel Maykon Ribeiro de Lima         | Despertador     | -     | -     | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -               | -     | -     | -     | -     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | -               | -     | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -               | -     | -     | -     | -     | -     | -     |
