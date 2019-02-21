@@ -2,7 +2,7 @@
 
 ## [](#header-2) Orientações iniciais
 
-1. Fork no repositório no [github](https://github.com/project-managment/2019.1)
+1. Fork no repositório no [github](https://github.com/project-management/2019.1)
 2. Os trabalhos entregues devem ser colocados no repositório pessoal e requisitar um _pull request_
 3. A revisão será realizada semanalmente e pontuada aqui
 
