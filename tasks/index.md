@@ -13,7 +13,7 @@
 
 1. [Cronometrar o tempo gasto com celular](time)
 2. [Conceitos fundamentais de projetos](basics/project/)
-3. [Conceitos fundamentais de gerência](.)
+3. [Conceitos fundamentais de gerência](basics/managment)
 4. [Conceitos fundamentais de ciclo de vida](.)
 5. [Conceitos fundamentais de USA PMI/PMBOK](.)
 6. [Conceitos fundamentais de UK PRINCE](.)
