@@ -2,7 +2,7 @@
 
 ## [](#header-2) Orientações iniciais
 
-1. Fork no repositório no [github](https://github.com/project-management/2019.1)
+1. Fork no repositório no [github](https://github.com/project-managment/2019.1)
 2. Os trabalhos entregues devem ser colocados no repositório pessoal e requisitar um _pull request_
 3. A revisão será realizada semanalmente e pontuada aqui
 
@@ -13,7 +13,7 @@
 
 1. [Cronometrar o tempo gasto com celular](time)
 2. [Conceitos fundamentais de projetos](basics/project/)
-3. [Conceitos fundamentais de gerência](basics/managment)
+3. [Conceitos fundamentais de gerência](basics/management)
 4. [Conceitos fundamentais de ciclo de vida](basics/life-cycle)
 5. [Conceitos fundamentais de USA PMI/PMBOK](.)
 6. [Conceitos fundamentais de UK PRINCE](.)
