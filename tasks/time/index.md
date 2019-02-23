@@ -25,7 +25,7 @@
 | 9   | Jackson Leandro Arruda Ferreira     | -           | -         | -     | -     | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -           | -         | -     | -     | -     | -     | -     | -     |
-| 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | -     | -     | -     | -     | -     | -     |
+| 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | 49h6min | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | -           | -         | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -54,7 +54,7 @@
 | 9   | Jackson Leandro Arruda Ferreira     | -               	| -     | -     | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | -               	| -     | -     | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -               	| -     | -     | -     | -     | -     | -     |
-| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)| -     | -     | -     | -     | -     | -     |
+| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)|Twitter (14h17min) | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -               	| -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | -               	| -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -               	| -     | -     | -     | -     | -     | -     |
