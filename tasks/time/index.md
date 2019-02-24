@@ -16,7 +16,7 @@
 | --- | ----------------------------------- | ----------- | --------- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | StayFree    | 44h 46min | -     | -     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 3   | Davi Souto Neri                     | QualityTime | 5h 49min  | -     | -     | -     | -     | -     | -     |
+| 3   | Davi Souto Neri                     | QualityTime | 5h 49min  | 45h27 | -     | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | -     | -     | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -46,7 +46,7 @@
 | 1   | Breno Oliveira da Silva             | YouTube         | -     | -     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -               | -     | -     | -     | -     | -     | -     |
 | 3   | Davi Souto Neri                     | YouTube         | -     | -     | -     | -     | -     | -     |
-| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | -     | -     | -     | -     | -     | -     |
+| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | Whats | -     | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -               | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | -               | -     | -     | -     | -     | -     | -     |
 | 7   | Gésio de Moura                      | -               | -     | -     | -     | -     | -     | -     |
