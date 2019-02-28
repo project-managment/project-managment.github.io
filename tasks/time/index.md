@@ -16,7 +16,7 @@
 | --- | ----------------------------------- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | -   | -     | -     | -     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -   | -     | -     | -     | -     | -     | -     | -     |
-| 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min     | 50h 13min     | -     | -     | -     | -     | -     |
+| 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min | 50h 13min | -     | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | -   | -     | -     | -     | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -   | -     | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | -   | -     | -     | -     | -     | -     | -     | -     |
