@@ -1,5 +1,4 @@
-# Resumos dos fundamentos sobre ciclo de vida
-
+# PMBOK
 ## Tarefa
 
 - Preparação
@@ -9,10 +8,12 @@
   2. Resumir : 1 pomodoro de 30 minutos
      1. Apesar da leitura ser em dupla, o resumo é individual
      2. No seu repositório, criar um diretório com seu nome
-     3. Criar um arquivo com `04-pmbok.md`
+     3. Criar um arquivo com `05-pmbok.md`
      4. No arquivo criado, colocar número e título da tarefa, seu nome, e redigir as respostas as perguntas abaixo
      5. Fazer um _pull request_ para o repositório da disciplina
-     6. Extra sala de aula, acrescentar as reflexões da _Tarefa de mapeamento_ no arquivo fazendo posterior _pull request_
+  3. Tarefa extra sala de aula
+     1. Acrescentar as reflexões da _Tarefa de mapeamento_ no arquivo `05-pmbok.md`
+     2. Fazer um _pull request_
 
 ## Perguntas
 
