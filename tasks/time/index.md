@@ -37,7 +37,7 @@
 | 21  | Thiago Tierre de Lima               | -           | -         | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          |My Phone Time| -         |22h42m|27h39m| -     | -     | -     | -     |
-| -   | Leonardo Ataide Minora              | iOS         | 13h41     | -     | -     | -     | -     | -     | -     |
+| -   | Leonardo Ataide Minora              | iOS         | 13h41     | 15h43 | 11h22 | -     | -     | -     | -     |
 
 ## [](#header-2) Aplicativos mais utilizado
 
@@ -66,4 +66,5 @@
 | 21  | Thiago Tierre de Lima               | -               | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -               | -     | -     | -     | -     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          | -               |Samsung Internet|Samsung Internet| -     | -     | -     | -     |
-| -   | Leonardo Ataide Minora              | WhatsApp (5h48) | -     | -     | -     | -     | -     | -     |
+| -   | Leonardo Ataide Minora              | WhatsApp (5h48) | WhatsApp (6h02) | WhatsApp (4h12) | -     | -     | -     | -     |
+

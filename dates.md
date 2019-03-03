@@ -17,11 +17,11 @@ layout: default
 | 06   | sexta-feira  01-03 | USA PMI/PMBOK                     |
 | 07   | quinta-feira 07-03 | UK Prince2                        |
 | 08   | sexta-feira  08-03 | UE PM 2                           |
-| 09   | quinta-feira 14-03 | Líder                             |
-| 10   | sexta-feira  15-03 | Líder e gerente                   |
-| 11   | quinta-feira 21-03 | Planejamento                      |
-| 12   | sexta-feira  22-03 | Estimativa                        |
-| 13   | quinta-feira 28-03 |                                   |
+| 09   | quinta-feira 14-03 | PMBOK vs Prince2 vs PM 2          |
+| 10   | sexta-feira  15-03 | Líder                             |
+| 11   | quinta-feira 21-03 | Líder e gerente                   |
+| 12   | sexta-feira  22-03 | Planejamento                      |
+| 13   | quinta-feira 28-03 | Estimativa                        |
 | 14   | sexta-feira  29-03 |                                   |
 | 15   | quinta-feira 04-04 |                                   |
 | 16   | sexta-feira  05-04 |                                   |
