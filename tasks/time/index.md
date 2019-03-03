@@ -34,10 +34,11 @@
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | QualityTime | 3h19m     | 22h3m | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | QualityTime | 3h 36m         |3h54min| -     | -     | -     | -     | -     |
-| 21  | Thiago Tierre de Lima               | -           | -         | -     | -     | -     | -     | -     | -     |
+| 21  | Thiago Tierre de Lima               | StayFree    | -         | 27h 29min | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          |My Phone Time| -         | 22h42m | 27h39m | -     | -     | -     | -     |
 | -   | Leonardo Ataide Minora              | iOS         | 13h41     | 15h43 | 11h22 | -     | -     | -     | -     |
+
 
 ## [](#header-2) Aplicativos mais utilizado
 
@@ -63,7 +64,7 @@
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | WhatsApp (1h05) | Whatsapp (7h11m) | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | WhatsApp               |Twitter| -     | -     | -     | -     | -     |
-| 21  | Thiago Tierre de Lima               | -               | -     | -     | -     | -     | -     | -     |
+| 21  | Thiago Tierre de Lima               | WhatsApp (6h38) | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -               | -     | -     | -     | -     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          | -               |Samsung Internet|Samsung Internet| -     | -     | -     | -     |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48) | WhatsApp (6h02) | WhatsApp (4h12) | -     | -     | -     | -     |
