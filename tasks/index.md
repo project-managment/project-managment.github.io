@@ -1,4 +1,4 @@
-# [](#header-1) Tarefas 2018.2
+# [](#header-1) Tarefas 2019.1
 
 ## [](#header-2) Orientações iniciais
 
@@ -13,9 +13,9 @@
 
 1. [Cronometrar o tempo gasto com celular](time)
 2. [Conceitos fundamentais de projetos](basics/project/)
-3. [Conceitos fundamentais de gerência](.)
-4. [Conceitos fundamentais de ciclo de vida](.)
-5. [Conceitos fundamentais de USA PMI/PMBOK](.)
+3. [Conceitos fundamentais de gerência](basics/management)
+4. [Conceitos fundamentais de ciclo de vida](basics/life-cycle)
+5. [Conceitos fundamentais de USA PMI/PMBOK](basics/pmbok)
 6. [Conceitos fundamentais de UK PRINCE](.)
 7. [Conceitos fundamentais de UE PM2](.)
 8. [Líder e Gerente](.)
