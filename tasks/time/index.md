@@ -16,7 +16,7 @@
 | --- | ----------------------------------- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | StayFree   | 44h 46min     | 30h 45min     | 33h 25min     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min | 50h 13min | -     | -     | -     | -     | -     |
+| 3   | Davi Souto Neri                     | QualityTime | 5h4 9min  | 50h 13min | -     | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | 45h27 | 46h4m | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9  | 42h 8min  | -     | -     | -     | -     | -     | -     |
@@ -28,7 +28,7 @@
 | 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | 49h6min | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime | 4h 41m    | -     | -     | -     | -     | -     | -     |
-| 15  | Matheus Henrique de Souza           | -           | -         | -     | -     | -     | -     | -     | -     |
+| 15  | Matheus Henrique de Souza           | QualityTime | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
