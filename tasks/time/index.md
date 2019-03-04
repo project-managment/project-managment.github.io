@@ -58,7 +58,7 @@
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)|Twitter (14h17min) | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -               | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify         | -     | -     | -     | -     | -     | -     |
-| 15  | Matheus Henrique de Souza           | -               | -     | -     | -     | -     | -     | -     |
+| 15  | Matheus Henrique de Souza           | WhatsApp        | WhatsApp | Instagram | WhatsApp | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
