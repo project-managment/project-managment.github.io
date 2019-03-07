@@ -16,7 +16,7 @@
 3. [Conceitos fundamentais de gerência](basics/management)
 4. [Conceitos fundamentais de ciclo de vida](basics/life-cycle)
 5. [Conceitos fundamentais de USA PMI/PMBOK](basics/pmbok)
-6. [Conceitos fundamentais de UK PRINCE](.)
+6. [Conceitos fundamentais de UK PRINCE](basics/prince2)
 7. [Conceitos fundamentais de UE PM2](.)
 8. [Líder e Gerente](.)
 9. [Planejamento](.)
