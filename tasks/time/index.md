@@ -19,7 +19,7 @@
 | 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min | 50h 13min | -     | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | 45h27 | 46h4m | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -           | -         | -     | -     | -     | -     | -     | -     |
-| 6   | Felipe Barbosa Nicolau Fernandes    | Android V9  | 42h 8min  | -     | -     | -     | -     | -     | -     |
+| 6   | Felipe Barbosa Nicolau Fernandes    | Android V9  | 42h 8min  | 31h 31min  | 33h 51min   | -     | -     | -     | -     |
 | 7   | Gésio de Moura                      | -           | -         | -     | -     | -     | -     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -49,7 +49,7 @@
 | 3   | Davi Souto Neri                     | YouTube         | YouTube     | -     | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | Whats | Whats | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -               | -     | -     | -     | -     | -     | -     |
-| 6   | Felipe Barbosa Nicolau Fernandes    | YouTube         | -     | -     | -     | -     | -     | -     |
+| 6   | Felipe Barbosa Nicolau Fernandes    | YouTube         | YouTube     | YouTube     | -     | -     | -     | -     |
 | 7   | Gésio de Moura                      | -               | -     | -     | -     | -     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -               | -     | -     | -     | -     | -     | -     |
