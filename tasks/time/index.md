@@ -27,7 +27,7 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -             | -         | -         | -         | -     | -     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -     | -     | -     | -     |
-| 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | -         | -         | -     | -     | -     | -     |
+| 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | 37h 37min | 39h 47min | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | QualityTime   | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -             | -         | -         | -         | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | QualityTime   | 13h 14min | 23h 49min | 36h 23min | -     | -     | -     | -     |
@@ -57,7 +57,7 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)  | WhatsApp (12h9min)  | -                     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -                   | -                   | -                   | -                     | -     | -     | -     |
-| 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | -                   | -                   | -                     | -     | -     | -     |
+| 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube             | YouTube             | -                     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp            | Instagram           | WhatsApp              | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube             | Chrome (14h 41min)  | -                     | -     | -     | -     |
