@@ -30,7 +30,7 @@
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime | 4h 41m    | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | QualityTime | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
+| 17 | Paulo Jeférson da Costa Gomes | QualityTime | 13h 14min | 23h 49min | 36h 23min     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | QualityTime | 3h19m     | 22h3m | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | QualityTime | 3h 36m         |3h54min| -     | -     | -     | -     | -     |
@@ -60,7 +60,7 @@
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify         | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | WhatsApp        | WhatsApp | Instagram | WhatsApp | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
-| 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
+| 17 | Paulo Jeférson da Costa Gomes | Chrome | YouTube | Chrome (14h 41min) | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | WhatsApp (1h05) | Whatsapp (7h11m) | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | WhatsApp               |Twitter| -     | -     | -     | -     | -     |
