@@ -16,21 +16,21 @@
 | --- | ----------------------------------- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | StayFree   | 44h 46min     | 30h 45min     | 33h 25min     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min | 50h 13min | -     | -     | -     | -     | -     |
+| 3   | Davi Souto Neri                     | QualityTime | 5h4 9min  | 50h 13min | -     | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | 45h27 | 46h4m | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9  | 42h 8min  | 31h 31min  | 33h 51min   | -     | -     | -     | -     |
-| 7   | Gésio de Moura                      | -           | -         | -     | -     | -     | -     | -     | -     |
+| 7   | Gésio de Moura                      | QualityTime | 16h 18min | 41h 21min | 28h 16min | -     | -     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -           | -         | -     | -     | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid       | 19h 42min | -     | -     | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -           | -         | -     | -     | -     | -     | -     | -     |
-| 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | 49h6min | -     | -     | -     | -     | -     |
+| 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | 49h6min | 46h6min | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime | 4h 41m    | -     | -     | -     | -     | -     | -     |
-| 15  | Matheus Henrique de Souza           | -           | -         | -     | -     | -     | -     | -     | -     |
+| 15  | Matheus Henrique de Souza           | QualityTime | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
+| 17 | Paulo Jeférson da Costa Gomes | QualityTime | 13h 14min | 23h 49min | 36h 23min     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | QualityTime | 3h19m     | 22h3m | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | QualityTime | 3h 36m         |3h54min| -     | -     | -     | -     | -     |
@@ -50,17 +50,17 @@
 | 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | Whats | Whats | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -               | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube         | YouTube     | YouTube     | -     | -     | -     | -     |
-| 7   | Gésio de Moura                      | -               | -     | -     | -     | -     | -     | -     |
+| 7   | Gésio de Moura                      | Instagram   | YouTube | YouTube | -     | -     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -               | -     | -     | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador     | -     | -     | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -               | -     | -     | -     | -     | -     | -     |
-| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)|Twitter (14h17min) | -     | -     | -     | -     | -     |
+| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)|Twitter (14h17min) | WhatsApp (12h9min) | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -               | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify         | -     | -     | -     | -     | -     | -     |
-| 15  | Matheus Henrique de Souza           | -               | -     | -     | -     | -     | -     | -     |
+| 15  | Matheus Henrique de Souza           | WhatsApp        | WhatsApp | Instagram | WhatsApp | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
-| 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
+| 17 | Paulo Jeférson da Costa Gomes | Chrome | YouTube | Chrome (14h 41min) | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | WhatsApp (1h05) | Whatsapp (7h11m) | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | WhatsApp               |Twitter| -     | -     | -     | -     | -     |

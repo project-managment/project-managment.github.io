@@ -1,4 +1,4 @@
-# PMBOK
+# PRINCE2
 
 ## Tarefa
 
@@ -17,3 +17,8 @@
      1. Comparativo inicial sobre PMBOK e PRINCE2
      2. Criar um arquivo `07-pmbok-prince2-pm2.md`
      3. Fazer um _pull request_
+
+## [](#links) Links
+
+- [axelos](https://www.axelos.com/best-practice-solutions/prince2)
+- [wiki](http://pt.prince2.wiki/PRINCE2)
