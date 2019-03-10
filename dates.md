@@ -7,26 +7,26 @@ layout: default
 
 ## [](#header-2) 1o Bimestre
 
-| \#   | dia                | conteúdo                          |
-| :--- | :----------------- | :-------------------------------- |
-| 01   | quinta-feira 14-02 | Aula inicial                      |
-| 02   | sexta-feira  15-02 | Projeto                           |
-| 03   | quinta-feira 21-02 | Gerência de projeto               |
-| 04   | sexta-feira  22-02 | Ciclo de vida de projeto          |
-| 05   | quinta-feira 28-02 | Projeto, gerência e ciclo de vida |
-| 06   | sexta-feira  01-03 | USA PMI/PMBOK                     |
-| 07   | quinta-feira 07-03 | UK Prince2                        |
-| 08   | sexta-feira  08-03 | UE PM 2                           |
-| 09   | quinta-feira 14-03 | PMBOK vs Prince2 vs PM 2          |
-| 10   | sexta-feira  15-03 | Líder                             |
-| 11   | quinta-feira 21-03 | Líder e gerente                   |
-| 12   | sexta-feira  22-03 | Planejamento                      |
-| 13   | quinta-feira 28-03 | Estimativa                        |
-| 14   | sexta-feira  29-03 |                                   |
-| 15   | quinta-feira 04-04 |                                   |
-| 16   | sexta-feira  05-04 |                                   |
-| 17   | quinta-feira 11-04 |                                   |
-| 18   | sexta-feira  12-04 | Entrega de resultados             |
+| \#   | dia                | conteúdo                                            |
+| :--- | :----------------- | :-------------------------------------------------- |
+| 01   | quinta-feira 14-02 | Aula inicial                                        |
+| 02   | sexta-feira  15-02 | [Projeto](tasks/basics/project/)                    |
+| 03   | quinta-feira 21-02 | [Gerência de projeto](tasks/basics/management)      |
+| 04   | sexta-feira  22-02 | [Ciclo de vida de projeto](tasks/basics/life-cycle) |
+| 05   | quinta-feira 28-02 | Projeto, gerência e ciclo de vida                   |
+| 06   | sexta-feira  01-03 | [USA PMI/PMBOK](tasks/frameworks/pmbok)             |
+| 07   | quinta-feira 07-03 | [UK Prince2](tasks/frameworks/prince2)              |
+| 08   | sexta-feira  08-03 | [UE PM 2](tasks/frameworks/pm2)                     |
+| 09   | quinta-feira 14-03 | PMBOK vs Prince2 vs PM 2                            |
+| 10   | sexta-feira  15-03 | Líder                                               |
+| 11   | quinta-feira 21-03 | Líder e gerente                                     |
+| 12   | sexta-feira  22-03 | Planejamento                                        |
+| 13   | quinta-feira 28-03 | Estimativa                                          |
+| 14   | sexta-feira  29-03 |                                                     |
+| 15   | quinta-feira 04-04 |                                                     |
+| 16   | sexta-feira  05-04 |                                                     |
+| 17   | quinta-feira 11-04 |                                                     |
+| 18   | sexta-feira  12-04 | Entrega de resultados                               |
 
 
 ## [](#header-2) 2o Bimestre
