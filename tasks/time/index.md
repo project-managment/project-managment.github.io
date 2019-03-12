@@ -30,7 +30,7 @@
 | 14  | Lucas Matthaus Fonseca da Silva     | -           | -         | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 17 | Paulo Jeférson da Costa Gomes | QualityTime | 13h 14min | 23h 49min | 36h 23min     | 45h 3m    | -     | -     | -     |
+| 17 | Paulo Jeférson da Costa Gomes | QualityTime | 13h 14min | 23h 49min | 36h 23min | 45h 3min  | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | -           | -         | -     | -     | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | -           | -         | -     | -     | -     | -     | -     | -     |
