@@ -29,7 +29,7 @@
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | -           | -         | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -           | -         | -     | -     | -     | -     | -     | -     |
-| 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
+| 16  | Max Thayrese Lira e Silva           | QualityTime | -         | -     |49h 47min|30h 33min| -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -58,7 +58,7 @@
 | 13  | Lucas Gabriel Amaro Pereira         | -               | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | -               | -     | -     | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | -               | -     | -     | -     | -     | -     | -     |
-| 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
+| 16  | Max Thayrese Lira e Silva           | -               | -     |Facebook (3h 5m)|Instagram(1h 16m)| -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | -               | -     | -     | -     | -     | -     | -     |
