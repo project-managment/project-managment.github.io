@@ -17,7 +17,7 @@
 | 1   | Breno Oliveira da Silva             | StayFree    | 44h 46min | -     | -     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min | 50h 13min | -     | -     | -     | -     | -     |
-| 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | 45h 27m | 46h 4m | 39h 23m | -     | -     | -     |
+| 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | 45h 27m | 46h 4m | 39h 23m | 40h 58m | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9  | 42h 8min  | -     | -     | -     | -     | -     | -     |
 | 7   | Gésio de Moura                      | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -47,7 +47,7 @@
 | 1   | Breno Oliveira da Silva             | YouTube         | -     | -     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -               | -     | -     | -     | -     | -     | -     |
 | 3   | Davi Souto Neri                     | YouTube         | YouTube     | -     | -     | -     | -     | -     |
-| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | WhatsApp (20h3) | WhatsApp (46h4) | Chrome (9h53) | -     | -     | -     |
+| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | WhatsApp (20h3) | WhatsApp (46h4) | Chrome (9h53) | WhatsApp (15h 20m) | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -               | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube         | -     | -     | -     | -     | -     | -     |
 | 7   | Gésio de Moura                      | -               | -     | -     | -     | -     | -     | -     |
