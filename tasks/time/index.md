@@ -47,7 +47,7 @@
 | 1   | Breno Oliveira da Silva             | YouTube         | -     | -     | -     | -     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -               | -     | -     | -     | -     | -     | -     |
 | 3   | Davi Souto Neri                     | YouTube         | YouTube     | -     | -     | -     | -     | -     |
-| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | WhatsApp (20h3) | WhatsApp (46h4) | Chrome (9h53) | WhatsApp (15h 20m) | -     | -     |
+| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | WhatsApp (20h3) | WhatsApp (17h51) | Chrome (9h53) | WhatsApp (15h20) | -     | -     
 | 5   | Emanoel Messias Gomes de Lima       | -               | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube         | -     | -     | -     | -     | -     | -     |
 | 7   | Gésio de Moura                      | -               | -     | -     | -     | -     | -     | -     |
