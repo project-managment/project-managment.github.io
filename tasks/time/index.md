@@ -36,7 +36,7 @@
 | 20  | Rute Fernandes do Nascimento        | QualityTime   | 3h 36m    | 3h54min   | -         | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | StayFree      | -         | 27h 29min | -         | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -             | -         | -         | -         | -     | -     | -     | -     |
-| 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 22h42m    | 27h39m    | 31h21m| -     | -     | -     |
+| 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 22h42m    | 32h13m    | 31h21m | 33h36m | -     | -     |
 | -   | Leonardo Ataide Minora              | iOS           | 13h41     | 15h43     | 11h22     | 10h04 | -     | -     | -     |
 
 
@@ -66,6 +66,6 @@
 | 20  | Rute Fernandes do Nascimento        | WhatsApp            | Twitter             | -                   | -                     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | WhatsApp (6h38)     | -                   | -                   | -                     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -                   | -                   | -                   | -                     | -     | -     | -     |
-| 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet    | Samsung Internet    | Netflix               | -     | -     | -     |
+| 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m) | Netflix (6h40m) | WhatsApp (6h18m)  | -     | -     |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)     | WhatsApp (4h12)     | Clash of Clans (3h19) | -     | -     | -     |
 
