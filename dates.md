@@ -18,7 +18,7 @@ layout: default
 | 07   | quinta-feira 07-03 | [UK Prince2](tasks/frameworks/prince2)              |
 | 08   | sexta-feira  08-03 | [UE PM 2](tasks/frameworks/pm2)                     |
 | 09   | quinta-feira 14-03 | PMBOK vs Prince2 vs PM 2                            |
-| 10   | sexta-feira  15-03 | Líder                                               |
+| 10   | sexta-feira  15-03 | [Gerente](tasks/basics/manager)                     |
 | 11   | quinta-feira 21-03 | Líder e gerente                                     |
 | 12   | sexta-feira  22-03 | Planejamento                                        |
 | 13   | quinta-feira 28-03 | Estimativa                                          |
