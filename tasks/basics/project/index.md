@@ -10,31 +10,3 @@
    4. No arquivo criado, colocar número e título da tarefa, seu nome, e redigir o resumo da leitura
    5. Fazer um _pull request_ para o repositório da disciplina
 3. Apresentar (sorteio) :: 1 Pomodoro 15 minutos
-
-## sumário
-
-| \#  | Aluno                               | Link do resumo |
-| --- | ----------------------------------- | -------------- |
-| 1   | Breno Oliveira da Silva             | -              |
-| 2   | Daniel Bruno Santos Brito           | -              |
-| 3   | Davi Souto Neri                     | -              |
-| 4   | Dayane Vitoria Leandro Cruz         | -              |
-| 5   | Emanoel Messias Gomes de Lima       | -              |
-| 6   | Felipe Barbosa Nicolau Fernandes    | -              |
-| 7   | Gésio de Moura                      | -              |
-| 8   | Isaac Bruno Lima da Silva           | -              |
-| 9   | Jackson Leandro Arruda Ferreira     | -              |
-| 10  | Joel Maykon Ribeiro de Lima         | -              |
-| 11  | Juan Felipe Ibanez Ferreira         | -              |
-| 12  | Lavinia Medeiros Miranda            | -              |
-| 13  | Lucas Gabriel Amaro Pereira         | -              |
-| 14  | Lucas Matthaus Fonseca da Silva     | -              |
-| 15  | Matheus Henrique de Souza           | -              |
-| 16  | Max Thayrese Lira e Silva           | -              |
-| 17  | Paulo Jeférson da Costa Gomes       | -              |
-| 18  | Pedro Orlando de Albuquerque Duarte | -              |
-| 19  | Raul Silva de Almeida               | -              |
-| 20  | Rute Fernandes do Nascimento        | -              |
-| 21  | Thiago Tierre de Lima               | -              |
-| 22  | Tiago Caio de Oliveira Lisboa       | -              |
-| 23  | Victor Wagner Dias Ribeiro          | -              |
