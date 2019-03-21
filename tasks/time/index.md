@@ -12,7 +12,6 @@
 
 ## [](#header-2) Registros de tempos
 
-
 | \#  | aluno                               | App           | 16/02     | 23/02     | 02/03     | 09/03 | 16/03 | 23/03 | 30/03 |
 | --- | ----------------------------------- | ------------- | --------- | --------- | --------- | ----- | ----- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | StayFree   | 44h 46min     | 30h 45min     | 33h 25min     | 39h 37min     | 35h 21min     | -     | -     |
@@ -26,7 +25,7 @@
 | 9   | Jackson Leandro Arruda Ferreira     | -             | -         | -         | -         | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid         | 19h 42min | -         | -         | -     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -             | -         | -         | -         | -     | -     | -     | -     |
-| 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | -     | -     | -     | -     |
+| 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | 49h6min | 46h6min | 41h51min | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | -         | -         | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | QualityTime   | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
@@ -59,7 +58,7 @@
 | 9   | Jackson Leandro Arruda Ferreira     | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                   | -                   | -                     | -     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -                   | -                   | -                   | -                     | -     | -     | -     |
-| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)  | WhatsApp (12h9min)  | -                     | -     | -     | -     |
+| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)|Twitter (14h17min) | WhatsApp (12h9min) | WhatsApp (9h55min| -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | -                   | -                   | -                     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp            | Instagram           | WhatsApp              | -     | -     | -     |
@@ -72,6 +71,5 @@
 | 22  | Tiago Caio de Oliveira Lisboa       | WhatsApp            | WhatsApp            | WhatsApp            | WhatsApp              | -     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet    | Samsung Internet    | -                     | -     | -     | -     |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)     | WhatsApp (4h12)     | Clash of Clans (3h19) | -     | -     | -     |
-
 
 
