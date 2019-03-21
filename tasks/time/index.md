@@ -12,6 +12,7 @@
 
 ## [](#header-2) Registros de tempos
 
+
 | \#  | aluno                               | App           | 16/02     | 23/02     | 02/03     | 09/03 | 16/03 | 23/03 | 30/03 |
 | --- | ----------------------------------- | ------------- | --------- | --------- | --------- | ----- | ----- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | StayFree      | 44h 46min | 30h 45min | 33h 25min | -     | -     | -     | -     |
@@ -29,8 +30,8 @@
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | -         | -         | -     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | QualityTime   | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
-| 16  | Max Thayrese Lira e Silva           | QualityTime   | -         | -     |49h 47min|30h 33min| -     | -     | -     |
-| 17  | Paulo Jeférson da Costa Gomes       | QualityTime   | 13h 14min | 23h 49min | 36h 23min | -     | -     | -     | -     |
+| 16  | Max Thayrese Lira e Silva           | QualityTime   | -         | -         | 49h 47min | 30h 33min | -     | -     | -     |
+| 17  | Paulo Jeférson da Costa Gomes       | QualityTime   | 13h 14min | 23h 49min | 36h 23min | 45h 3min  | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -             | -         | -         | -         | -     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | QualityTime   | 3h19m     | 22h3m     | -         | -     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | QualityTime   | 3h 36m    | 3h54min   | -         | -     | -     | -     | -     |
@@ -60,7 +61,7 @@
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | -                   | -                   | -                     | -     | -     | -     |
 | 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp            | Instagram           | WhatsApp              | -     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | -                   | -                   | Facebook (3h 5m)    | Instagram(1h 16m)     | -     | -     | -     |
-| 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube             | Chrome (14h 41min)  | -                     | -     | -     | -     |
+| 17  | Paulo Jeférson da Costa Gomes | Chrome | YouTube | Chrome (14h 41min) | Chrome (20h 44min)  | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 19  | Raul Silva de Almeida               | WhatsApp (1h05)     | Whatsapp (7h11m)    | -                   | -                     | -     | -     | -     |
 | 20  | Rute Fernandes do Nascimento        | WhatsApp            | Twitter             | -                   | -                     | -     | -     | -     |
