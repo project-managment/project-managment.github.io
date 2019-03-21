@@ -18,9 +18,10 @@
 5. [Conceitos fundamentais de USA PMI/PMBOK](frameworks/pmbok)
 6. [Conceitos fundamentais de UK PRINCE](frameworks/prince2)
 7. [Conceitos fundamentais de UE PM2](frameworks/pm2)
-8. [Líder e Gerente](.)
-9. [Planejamento](.)
-10. Estimativa de tempo/esforço
+8. [Gerente](basics/manager/)
+9. [Líder e Gerente](.)
+10. [Planejamento](.)
+11. Estimativa de tempo/esforço
    1. [Introdução](.)
    2. [Mythical man month](.)
    3. [planning poker](.)
