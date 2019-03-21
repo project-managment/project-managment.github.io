@@ -11,3 +11,8 @@
 - [Gerenciamento de Projetos: fundamentos e prática integrada](https://www.evolution.com.br/product/gerenciamento-de-projetos)
 - [Fundamentos em gestão de projetos](https://www.grupogen.com.br/sociais-aplicadas/administracao/gerencia-de-projetos/fundamentos-gestao-projetos-24755)
 - [Gestão de Projetos](https://www.grupogen.com.br/sociais-aplicadas/administracao/gerencia-de-projetos/e-book-gest-o-de-projetos)
+
+## [](#blogs) Blogs, videolos
+
+- [Fabio Cruz](http://www.fabiocruz.com.br)
+- [Nelson Rosamilha](https://www.youtube.com/user/rosamilha/)
