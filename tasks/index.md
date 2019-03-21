@@ -19,7 +19,7 @@
 6. [Conceitos fundamentais de UK PRINCE](frameworks/prince2)
 7. [Conceitos fundamentais de UE PM2](frameworks/pm2)
 8. [Gerente](basics/manager/)
-9. [Líder e Gerente](.)
+9. [Líder](basics/leader/)
 10. [Planejamento](.)
 11. Estimativa de tempo/esforço
    1. [Introdução](.)

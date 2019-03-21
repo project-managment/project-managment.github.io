@@ -18,14 +18,14 @@ layout: default
 | 07   | quinta-feira 07-03 | [UK Prince2](tasks/frameworks/prince2)              |
 | 08   | sexta-feira  08-03 | [UE PM 2](tasks/frameworks/pm2)                     |
 | 09   | quinta-feira 14-03 | PMBOK vs Prince2 vs PM 2                            |
-| 10   | sexta-feira  15-03 | [Gerente](tasks/basics/manager)                     |
-| 11   | quinta-feira 21-03 | Líder e gerente                                     |
-| 12   | sexta-feira  22-03 | Planejamento                                        |
-| 13   | quinta-feira 28-03 | Estimativa                                          |
-| 14   | sexta-feira  29-03 |                                                     |
-| 15   | quinta-feira 04-04 |                                                     |
-| 16   | sexta-feira  05-04 |                                                     |
-| 17   | quinta-feira 11-04 |                                                     |
+| 10   | sexta-feira  15-03 | PMBOK vs Prince2 vs PM 2                            |
+| 11   | quinta-feira 21-03 | [Gerente](tasks/basics/manager)                     |
+| 12   | sexta-feira  22-03 | [Líder](tasks/basics/leader/)                       |
+| 13   | quinta-feira 28-03 | Gerente vs Líder vs Chefe                           |
+| 14   | sexta-feira  29-03 | Planejamento                                        |
+| 15   | quinta-feira 04-04 | Planejamento                                        |
+| 16   | sexta-feira  05-04 | Estimativa                                          |
+| 17   | quinta-feira 11-04 | Estimativa                                          |
 | 18   | sexta-feira  12-04 | Entrega de resultados                               |
 
 
