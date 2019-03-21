@@ -12,10 +12,9 @@
 
 ## [](#header-2) Registros de tempos
 
-
 | \#  | aluno                               | App           | 16/02     | 23/02     | 02/03     | 09/03 | 16/03 | 23/03 | 30/03 |
 | --- | ----------------------------------- | ------------- | --------- | --------- | --------- | ----- | ----- | ----- | ----- |
-| 1   | Breno Oliveira da Silva             | StayFree      | 44h 46min | 30h 45min | 33h 25min | -     | -     | -     | -     |
+| 1   | Breno Oliveira da Silva             | StayFree   | 44h 46min     | 30h 45min     | 33h 25min     | 39h 37min     | 35h 21min     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -             | -         | -         | -         | -     | -     | -     | -     |
 | 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min  | 50h 13min | -         | -     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime   | 12h 25min | 45h27     | 46h4m     | -     | -     | -     | -     |
@@ -43,9 +42,10 @@
 
 ## [](#header-2) Aplicativos mais utilizado
 
+
 | \#  | aluno                               | 16/02               | 23/02               | 02/03               | 09/03                 | 16/03 | 23/03 | 30/03 |
 | --- | ----------------------------------- | ------------------- | ------------------- | ------------------- | --------------------- | ----- | ----- | ----- |
-| 1   | Breno Oliveira da Silva             | YouTube (28h 42min) | YouTube (19h 06min) | YouTube (18h 52min) | -                     | -     | -     | -     |
+| 1   | Breno Oliveira da Silva             | YouTube (28h 42min) | YouTube (19h 06min) | YouTube (18h 52min) | YouTube (24h 57min)   | Netflix 15h 14min     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 3   | Davi Souto Neri                     | YouTube             | YouTube             | -                   | -                     | -     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)      | Whats               | Whats               | -                     | -     | -     | -     |
@@ -69,4 +69,5 @@
 | 22  | Tiago Caio de Oliveira Lisboa       | -                   | -                   | -                   | -                     | -     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet    | Samsung Internet    | -                     | -     | -     | -     |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)     | WhatsApp (4h12)     | Clash of Clans (3h19) | -     | -     | -     |
+
 
