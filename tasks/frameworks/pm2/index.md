@@ -4,7 +4,7 @@
 
 - Preparação
   1. Ler os 2 docs: 1 pomodoro de 30 minutos
-     - [](https://publications.europa.eu/portal2012-portlet/html/downloadHandler.jsp?identifier=ac3e118a-cb6e-11e8-9424-01aa75ed71a1&format=pdf&language=en&productionSystem=cellar&part=) Páginas 13 a 21
+     - [PM2 Project Managment Methodology Guide 3.0 Páginas 13 a 21](https://publications.europa.eu/portal2012-portlet/html/downloadHandler.jsp?identifier=ac3e118a-cb6e-11e8-9424-01aa75ed71a1&format=pdf&language=en&productionSystem=cellar&part=)
   2. Resumir : 1 pomodoro de 30 minutos
      1. Apesar da leitura ser em dupla, o resumo é individual
      2. No seu repositório, criar um diretório com seu nome
