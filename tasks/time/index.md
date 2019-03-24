@@ -20,7 +20,7 @@
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime | 12h 25min | 45h27 | 46h4m | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9  | 42h 8min  | -     | -     | -     | -     | -     | -     |
-| 7   | Gésio de Moura                      | QualityTime | 16h 18min | 41h 21min | 28h 16min | -     | -     | -     | -     |
+| 7   | Gésio de Moura                      | QualityTime | 16h 18min | 41h 21min | 28h 16min | 40h 57min | 38h 56min | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -           | -         | -     | -     | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid       | 19h 42min | -     | -     | -     | -     | -     | -     |
@@ -50,7 +50,7 @@
 | 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)  | Whats | Whats | -     | -     | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -               | -     | -     | -     | -     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube         | -     | -     | -     | -     | -     | -     |
-| 7   | Gésio de Moura                      | Instagram   | YouTube | YouTube | -     | -     | -     | -     |
+| 7   | Gésio de Moura                      | Instagram   | YouTube | YouTube | Rise of Civilisations| Youtube | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -               | -     | -     | -     | -     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador     | -     | -     | -     | -     | -     | -     |
