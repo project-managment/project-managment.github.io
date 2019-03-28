@@ -57,7 +57,7 @@
 | 8   | Isaac Bruno Lima da Silva           | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                        | -                     | -                     | -     | -     |
-| 11  | Juan Felipe Ibanez Ferreira     | -                   | -                        | -                        | -                     | -                     | -     | -     |
+| 11  | Juan Felipe Ibanez Ferreira     | Google (5h 2min)| YouTube (4h 22min)| My Boy(GBA emulator) (7h 21min)| My Boy(GBA emulator) (5h e 52min)| YouTube (4h 37min)| YouTube (4h 49min)|-     |
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)       | WhatsApp (12h9min)       | WhatsApp (9h55min     | -                     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                  | -                     | -                     | -     | -     |
