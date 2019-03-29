@@ -15,7 +15,7 @@
 2. Resumir :: 1 Pomodoro de 30 minutos para cada texto
    1. Apesar da leitura ser em dupla, o resumo é individual
    2. No seu repositório, criar um diretório com seu nome
-   3. Criar um arquivo com `10-lider.md`
+   3. Criar um arquivo com `10-planning.md`
    4. No arquivo criado, colocar número e título da tarefa, seu nome, e redigir o resumo da leitura
    5. Fazer um _pull request_ para o repositório da disciplina
 
