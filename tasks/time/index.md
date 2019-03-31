@@ -24,7 +24,7 @@
 | 8   | Isaac Bruno Lima da Silva           | -             | -         | -         | -         | -         | -         | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -             | -         | -         | -         | -         | -         | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid         | 19h 42min | -         | -         | -         | -         | -     | -     |
-| 11  | Juan Felipe Ibanez Ferreira         | QualityTime   |25h 32min  | 28h 23min | 32h 45min | 22h 33min | 17h 25min |12h 33min| -     |
+| 11  | Juan Felipe Ibanez Ferreira         | QualityTime   |25h 32min  | 28h 23min | 32h 45min | 22h 33min | 17h 25min |12h 33min| 20h 18min |
 | 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | 41h51min  | -         | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -         | -         | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | 37h 37min | 39h 47min | -         | -         | -     | -     |
@@ -57,7 +57,7 @@
 | 8   | Isaac Bruno Lima da Silva           | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                        | -                     | -                     | -     | -     |
-| 11  | Juan Felipe Ibanez Ferreira     | Google (5h2min)| YouTube (4h22min)| My Boy(GBA emulator) (7h21min)| My Boy(GBA emulator) (5h52min)| YouTube (4h37min)| YouTube (4h49min)|-     |
+| 11  | Juan Felipe Ibanez Ferreira     | Google (5h2min)| YouTube (4h22min)| My Boy(GBA emulator) (7h21min)| My Boy(GBA emulator) (5h52min)| YouTube (4h37min)| YouTube (4h49min)|YouTube (3h56min)|
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)       | WhatsApp (12h9min)       | WhatsApp (9h55min     | -                     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                  | -                     | -                     | -     | -     |
