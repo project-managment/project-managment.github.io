@@ -33,7 +33,7 @@
 | 17  | Paulo Jeférson da Costa Gomes       | QualityTime   | 13h 14min | 23h 49min | 36h 23min | 45h 3min  | -         | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -             | -         | -         | -         | -         | -         | -     | -     |
 | 19  | Raul Silva de Almeida               | QualityTime   | 3h19m     | 22h3m     | -         | -         | -         | -     | -     |
-| 20  | Rute Fernandes do Nascimento        | QualityTime   | 2h3min    | 20h13min  | 37h56min  | 34h9min   | 31h52m    | 25h4m     | -     |
+| 20  | Rute Fernandes do Nascimento        | QualityTime   | 2h3min    | 20h13min  | 37h56min  | 34h9min   | 31h52m    | 25h4m     | 19h18m     |
 | 21  | Thiago Tierre de Lima               | StayFree      | -         | 27h 29min | -         | -         | -         | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | QualityTime   | 16h24m    | 84h1m     | 50h32m    | -         | -         | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 22h42m    | 32h13m    | 31h21m    | 33h36m    | -     | -     |
@@ -66,7 +66,7 @@
 | 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube                  | Chrome (14h 41min)       | Chrome (20h 44min)    | -                     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 19  | Raul Silva de Almeida               | WhatsApp (1h05)     | Whatsapp (7h11m)         | -                        | -                     | -                     | -     | -     |
-| 20  | Rute Fernandes do Nascimento        | WhatsApp(1h23)      | WhatsApp (4h47)          | Twitter (3h10)           | Twitter(4h44)         | WhatsApp(6h42)                      | Twitter(4h29)     | -     |
+| 20  | Rute Fernandes do Nascimento        | WhatsApp(1h23)      | WhatsApp (4h47)          | Twitter (3h10)           | Twitter(4h44)         | WhatsApp(6h42)                      | Twitter(4h29)     | Twitter(6h08)     |
 | 21  | Thiago Tierre de Lima               | WhatsApp (6h38)     | -                        | -                        | -                     | -                     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | WhatsApp            | WhatsApp                 | WhatsApp                 | WhatsApp              | -                     | -     | -     |
 | 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m) | Netflix (6h40m)       | WhatsApp (6h18m)      | -     | -     |
