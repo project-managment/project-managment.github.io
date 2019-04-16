@@ -31,7 +31,7 @@
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
-| 19  | Raul Silva de Almeida               | QualityTime | 3h19m     | 22h3m | 27h5m |23h15m | 29h6m | 27h29m| -     |
+| 19  | Raul Silva de Almeida               | QualityTime | 3h19m     | 22h3m | 27h5m |23h15m | 29h6m | 27h29m| 22h36m|
 | 20  | Rute Fernandes do Nascimento        | QualityTime | -         |3h54min| -     | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | -           | -         | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -60,7 +60,7 @@
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
-| 19  | Raul Silva de Almeida               | WhatsApp (1h05) | Whatsapp (7h11m) | Whatsapp (6h17m)| Whatsapp (6h5m) | Whatsapp (7h48m) |Whatsapp (6h49m)| -     |
+| 19  | Raul Silva de Almeida               | WhatsApp (1h05) | Whatsapp (7h11m) | Whatsapp (6h17m)| Whatsapp (6h5m) | Whatsapp (7h48m) |Whatsapp (6h49m)|Tetris (6h32m)|
 | 20  | Rute Fernandes do Nascimento        | -               |Twitter| -     | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | -               | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -               | -     | -     | -     | -     | -     | -     |
