@@ -28,7 +28,7 @@
 | 12  | Lavinia Medeiros Miranda            | QualityTime | 6h19min   | 49h6min | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -           | -         | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime | 4h 41m    | -     | -     | -     | -     | -     | -     |
-| 15  | Matheus Henrique de Souza           | QualityTime | 05h 17min | 05h 42min | 04h 58min | -     | -     | -     | -     |
+| 15 | Matheus Henrique de Souza | QualityTime | 15h 17min | 15h 42min | 13h 58min | 14h 18min | 16h 17min | 11h 33min | 15h 56min |
 | 16  | Max Thayrese Lira e Silva           | -           | -         | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -           | -         | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -           | -         | -     | -     | -     | -     | -     | -     |
@@ -58,7 +58,7 @@
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)|Twitter (14h17min) | -     | -     | -     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -               | -     | -     | -     | -     | -     | -     |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify         | -     | -     | -     | -     | -     | -     |
-| 15  | Matheus Henrique de Souza           | WhatsApp        | WhatsApp | Instagram | WhatsApp | -     | -     | -     |
+| 15 | Matheus Henrique de Souza | WhatsApp    | WhatsApp  | Instagram | WhatsApp  | WhatsApp  | WhatsApp  | WhatsApp  | WhatsApp  |
 | 16  | Max Thayrese Lira e Silva           | -               | -     | -     | -     | -     | -     | -     |
 | 17  | Paulo Jeférson da Costa Gomes       | -               | -     | -     | -     | -     | -     | -     |
 | 18  | Pedro Orlando de Albuquerque Duarte | -               | -     | -     | -     | -     | -     | -     |
