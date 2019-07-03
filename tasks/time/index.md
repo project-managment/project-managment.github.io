@@ -35,7 +35,7 @@
 | 20  | Rute Fernandes do Nascimento        | QualityTime   | 2h3min    | 20h13min  | 37h56min  | 34h9min   | -         | -         | -          |
 | 21  | Thiago Tierre de Lima               | StayFree      | -         | 27h 29min | -         | -         | -         | -         | -          |
 | 22  | Tiago Caio de Oliveira Lisboa       | QualityTime   | 16h24m    | 84h1m     | 50h32m    | -         | -         | -         | -          |
-| 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 22h42m    | 32h13m    | 31h21m    | 33h36m    | -         | -          |
+| 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 22h42m    | 32h13m    | 31h21m    | 33h36m    | 37h16m    | 34h33m     |
 | -   | Leonardo Ataide Minora              | iOS           | 13h41     | 15h43     | 11h22     | 10h04     | 10h29     | -         | -          |
 
 ## [](#header-2) Aplicativos mais utilizado
@@ -64,5 +64,5 @@
 | 20  | Rute Fernandes do Nascimento        | WhatsApp(1h23)      | WhatsApp (4h47)          | Twitter (3h10)                 | Twitter(4h44)                  | -                     | -                  | -                       |
 | 21  | Thiago Tierre de Lima               | WhatsApp (6h38)     | -                        | -                              | -                              | -                     | -                  | -                       |
 | 22  | Tiago Caio de Oliveira Lisboa       | WhatsApp            | WhatsApp                 | WhatsApp                       | WhatsApp                       | -                     | -                  | -                       |
-| 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m)       | Netflix (6h40m)                | WhatsApp (6h18m)      | -                  | -                       |
+| 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m)       | Netflix (6h40m)                | WhatsApp (6h18m)      | Netflix (8h51m)    | Netflix (11h12m)        |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)          | WhatsApp (4h12)                | Clash of Clans (3h19)          | Clash of clans (3h30) | -                  | -                       |
