@@ -16,7 +16,7 @@
 | --- | ----------------------------------- | ------------- | --------- | --------- | --------- | --------- | --------- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | StayFree      | 44h 46min | 30h 45min | 33h 25min | 39h 37min | 35h 21min | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -             | -         | -         | -         | -         | -         | -     | -     |
-| 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min  | 50h 13min | -         | -         | -         | -     | -     |
+| 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min  | 50h 13min | 57h 49min | 47h 53min | 33h 50min | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime   | 12h 25min | 45h 27m   | 46h 4m    | 39h 23m   | 40h 58m   | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -             | -         | -         | -         | -         | -         | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9    | 42h 8min  | 31h 31min | 33h 51min | -         | -         | -     | -     |
@@ -49,7 +49,7 @@
 | --- | ----------------------------------- | ------------------- | ------------------------ | ------------------------ | --------------------- | --------------------- | ----- | ----- |
 | 1   | Breno Oliveira da Silva             | YouTube (28h 42min) | YouTube (19h 06min)      | YouTube (18h 52min)      | YouTube (24h 57min)   | Netflix 15h 14min     | -     | -     |
 | 2   | Daniel Bruno Santos Brito           | -                   | -                        | -                        | -                     | -                     | -     | -     |
-| 3   | Davi Souto Neri                     | YouTube             | YouTube                  | -                        | -                     | -                     | -     | -     |
+| 3   | Davi Souto Neri                     | YouTube (21h 13m)             | YouTube (12h 49m)                  | YouTube (21h 18m)                  | YouTube (17h 46m)                     | YouTube (8h 39m)                     | -     | -     |
 | 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)      | WhatsApp (20h3)          | WhatsApp (17h51)         | Chrome (9h53)         | WhatsApp (15h20)      | -     | -     |
 | 5   | Emanoel Messias Gomes de Lima       | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube             | YouTube                  | YouTube                  | -                     | -                     | -     | -     |
