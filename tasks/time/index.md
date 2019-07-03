@@ -19,7 +19,7 @@
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime   | 12h 25min | 45h 27m   | 46h 4m    | 39h 23m   | 40h 58m   | 38h 50m   | 39h 39m    |
 | 5   | Emanoel Messias Gomes de Lima       | -             | -         | -         | -         | -         | -         | -         | -          |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9    | 42h 8min  | 31h 31min | 33h 51min | 35h59min  | 43h 7min  | -         | -          |
-| 7   | Gésio de Moura                      | QualityTime   | 16h 18min | 41h 21min | 28h 16min | -         | -         | -         | -          |
+| 7   | Gésio de Moura                      | QualityTime   | 16h 18min | 41h 21min | 28h 16min | 40h 57min | 38h 56min | -         | -          |
 | 8   | Isaac Bruno Lima da Silva           | -             | -         | -         | -         | -         | -         | -         | -          |
 | 9   | Jackson Leandro Arruda Ferreira     | -             | -         | -         | -         | -         | -         | -         | -          |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid         | 19h 42min | -         | -         | -         | -         | -         | -          |
@@ -48,7 +48,7 @@
 | 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)      | WhatsApp (20h3)          | WhatsApp (17h51)               | Chrome (9h53)                  | WhatsApp (15h20)      | WhatsApp (14h58)   | WhatsApp (19h9)         |
 | 5   | Emanoel Messias Gomes de Lima       | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube             | YouTube                  | YouTube                        | YouTube                        | Youtube               | -                  | -                       |
-| 7   | Gésio de Moura                      | Instagram           | YouTube                  | YouTube                        | -                              | -                     | -                  | -                       |
+| 7   | Gésio de Moura                      | QualityTime         | 16h 18min                | 41h 21min                      | 28h 16min                      | 40h 57min             | 38h 56min          | -                       | - |
 | 8   | Isaac Bruno Lima da Silva           | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
 | 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                              | -                              | -                     | -                  | -                       |
