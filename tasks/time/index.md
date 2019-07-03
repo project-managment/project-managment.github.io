@@ -13,7 +13,7 @@
 
 | \#  | aluno                               | App           | 16/02     | 23/02     | 02/03     | 09/03     | 16/03     | 23/03     | 30/03      |
 | --- | ----------------------------------- | ------------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- |
-| 1   | Breno Oliveira da Silva             | StayFree      | 44h 46min | 30h 45min | 33h 25min | 39h 37min | 35h 21min | -         | -          |
+| 1   | Breno Oliveira da Silva             | StayFree      | 44h 46min | 30h 45min | 33h 25min | 39h 37min | 35h 21min | 44h 32min | 41h 03min  |
 | 2   | Daniel Bruno Santos Brito           | -             | -         | -         | -         | -         | -         | -         | -          |
 | 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min  | 50h 13min | 57h 49min | 47h 53min | 33h 50min | 33h 44min | 41h 32min  |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime   | 12h 25min | 45h 27m   | 46h 4m    | 39h 23m   | 40h 58m   | 38h 50m   | 39h 39m    |
@@ -23,7 +23,7 @@
 | 8   | Isaac Bruno Lima da Silva           | -             | -         | -         | -         | -         | -         | -         | -          |
 | 9   | Jackson Leandro Arruda Ferreira     | -             | -         | -         | -         | -         | -         | -         | -          |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid         | 19h 42min | -         | -         | -         | -         | -         | -          |
-| 11  | Juan Felipe Ibanez Ferreira         | QualityTime   |25h 32min  | 28h 23min | 32h 45min | 22h 33min | 17h 25min |12h 33min  | 20h 18min  |
+| 11  | Juan Felipe Ibanez Ferreira         | QualityTime   | 25h 32min | 28h 23min | 32h 45min | 22h 33min | 17h 25min | 12h 33min | 20h 18min  |
 | 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | 41h51min  | 42h6min   | 44h34min  | 47h41min.  |
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -         | -         | -         | -          |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | 37h 37min | 39h 47min | 39h 30min | 34h 30min | 36h 50min | 27h 50 min |
@@ -38,32 +38,31 @@
 | 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 22h42m    | 32h13m    | 31h21m    | 33h36m    | -         | -          |
 | -   | Leonardo Ataide Minora              | iOS           | 13h41     | 15h43     | 11h22     | 10h04     | 10h29     | -         | -          |
 
-
 ## [](#header-2) Aplicativos mais utilizado
 
-| \#  | aluno                               | 16/02               | 23/02                    | 02/03                    | 09/03                 | 16/03                 | 23/03              | 30/03              |
-| --- | ----------------------------------- | ------------------- | ------------------------ | ------------------------ | --------------------- | --------------------- | ------------------ | ------------------ |
-| 1   | Breno Oliveira da Silva             | YouTube (28h 42min) | YouTube (19h 06min)      | YouTube (18h 52min)      | YouTube (24h 57min)   | Netflix 15h 14min     | -                  | -                  |
-| 2   | Daniel Bruno Santos Brito           | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 3   | Davi Souto Neri                     | YouTube             | YouTube                  | YouTube                  | YouTube               | YouTube               | WhatsApp           | YouTube            |
-| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)      | WhatsApp (20h3)          | WhatsApp (17h51)         | Chrome (9h53)         | WhatsApp (15h20)      | WhatsApp (14h58)   | WhatsApp (19h9)    |
-| 5   | Emanoel Messias Gomes de Lima       | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 6   | Felipe Barbosa Nicolau Fernandes    | YouTube             | YouTube                  | YouTube                  | -                     | -                     | -                  | -                  |
-| 7   | Gésio de Moura                      | Instagram           | YouTube                  | YouTube                  | -                     | -                     | -                  | -                  |
-| 8   | Isaac Bruno Lima da Silva           | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                        | -                     | -                     | -                  | -                  |
-| 11  | Juan Felipe Ibanez Ferreira         | Google (5h2min).    | YouTube (4h22min).       | My Boy(GBA emulator) (7h21min)| My Boy(GBA emulator) (5h52min) | YouTube (4h37min) | YouTube (4h49min) | YouTube (3h56min) |
-| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  |Twitter (14h17min)        | WhatsApp (12h9min)       | WhatsApp (9h55min)    | WhatsApp (12h23min)   | Twitter (11h46min) | Twitter (10h42min) |
-| 13  | Lucas Gabriel Amaro Pereira         | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                  | YouTube               | YouTube               | YouTube            | YouTube            |
-| 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp                 | Instagram                | WhatsApp              | WhatsApp              | WhatsApp           | WhatsApp           | 
-| 16  | Max Thayrese Lira e Silva           | Youtube(8h 40m)     | Youtube(7h 55m)          | Facebook (3h 5m)         | Instagram(10h 16m)    | Instagram(10h 34m)    | Instagram(13h 0m)  | Facebook(7h 30m)   |
-| 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube                  | Chrome (14h 41min)       | Chrome (20h 44min)    | YouTube (6h 50min)    | YouTube (8h 13min) | Twitter (7h 37min) |
-| 18  | Pedro Orlando de Albuquerque Duarte | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 19  | Raul Silva de Almeida               | WhatsApp (1h05)     | Whatsapp (7h11m)         | -                        | -                     | -                     | -                  | -                  |
-| 20  | Rute Fernandes do Nascimento        | WhatsApp(1h23)      | WhatsApp (4h47)          | Twitter (3h10)           | Twitter(4h44)         | -                     | -                  | -                  |
-| 21  | Thiago Tierre de Lima               | WhatsApp (6h38)     | -                        | -                        | -                     | -                     | -                  | -                  |
-| 22  | Tiago Caio de Oliveira Lisboa       | WhatsApp            | WhatsApp                 | WhatsApp                 | WhatsApp              | -                     | -                  | -                  |
-| 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m) | Netflix (6h40m)       | WhatsApp (6h18m)      | -                  | -                  |
-| -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)          | WhatsApp (4h12)          | Clash of Clans (3h19) | Clash of clans (3h30) | -                  | -                  |
+| \#  | aluno                               | 16/02               | 23/02                    | 02/03                          | 09/03                          | 16/03                 | 23/03              | 30/03                   |
+| --- | ----------------------------------- | ------------------- | ------------------------ | ------------------------------ | ------------------------------ | --------------------- | ------------------ | ----------------------- |
+| 1   | Breno Oliveira da Silva             | YouTube (28h 42min) | YouTube (19h 06min)      | YouTube (18h 52min)            | YouTube (24h 57min)            | Netflix 15h 14min     | Giganima 22h       | Clah Royale (11h 31min) |
+| 2   | Daniel Bruno Santos Brito           | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
+| 3   | Davi Souto Neri                     | YouTube             | YouTube                  | YouTube                        | YouTube                        | YouTube               | WhatsApp           | YouTube                 |
+| 4   | Dayane Vitoria Leandro Cruz         | WhatsApp (5h9)      | WhatsApp (20h3)          | WhatsApp (17h51)               | Chrome (9h53)                  | WhatsApp (15h20)      | WhatsApp (14h58)   | WhatsApp (19h9)         |
+| 5   | Emanoel Messias Gomes de Lima       | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
+| 6   | Felipe Barbosa Nicolau Fernandes    | YouTube             | YouTube                  | YouTube                        | -                              | -                     | -                  | -                       |
+| 7   | Gésio de Moura                      | Instagram           | YouTube                  | YouTube                        | -                              | -                     | -                  | -                       |
+| 8   | Isaac Bruno Lima da Silva           | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
+| 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
+| 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                              | -                              | -                     | -                  | -                       |
+| 11  | Juan Felipe Ibanez Ferreira         | Google (5h2min).    | YouTube (4h22min).       | My Boy(GBA emulator) (7h21min) | My Boy(GBA emulator) (5h52min) | YouTube (4h37min)     | YouTube (4h49min)  | YouTube (3h56min)       |
+| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)       | WhatsApp (12h9min)             | WhatsApp (9h55min)             | WhatsApp (12h23min)   | Twitter (11h46min) | Twitter (10h42min)      |
+| 13  | Lucas Gabriel Amaro Pereira         | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
+| 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                        | YouTube                        | YouTube               | YouTube            | YouTube                 |
+| 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp                 | Instagram                      | WhatsApp                       | WhatsApp              | WhatsApp           | WhatsApp                |
+| 16  | Max Thayrese Lira e Silva           | Youtube(8h 40m)     | Youtube(7h 55m)          | Facebook (3h 5m)               | Instagram(10h 16m)             | Instagram(10h 34m)    | Instagram(13h 0m)  | Facebook(7h 30m)        |
+| 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube                  | Chrome (14h 41min)             | Chrome (20h 44min)             | YouTube (6h 50min)    | YouTube (8h 13min) | Twitter (7h 37min)      |
+| 18  | Pedro Orlando de Albuquerque Duarte | -                   | -                        | -                              | -                              | -                     | -                  | -                       |
+| 19  | Raul Silva de Almeida               | WhatsApp (1h05)     | Whatsapp (7h11m)         | -                              | -                              | -                     | -                  | -                       |
+| 20  | Rute Fernandes do Nascimento        | WhatsApp(1h23)      | WhatsApp (4h47)          | Twitter (3h10)                 | Twitter(4h44)                  | -                     | -                  | -                       |
+| 21  | Thiago Tierre de Lima               | WhatsApp (6h38)     | -                        | -                              | -                              | -                     | -                  | -                       |
+| 22  | Tiago Caio de Oliveira Lisboa       | WhatsApp            | WhatsApp                 | WhatsApp                       | WhatsApp                       | -                     | -                  | -                       |
+| 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m)       | Netflix (6h40m)                | WhatsApp (6h18m)      | -                  | -                       |
+| -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)          | WhatsApp (4h12)                | Clash of Clans (3h19)          | Clash of clans (3h30) | -                  | -                       |
