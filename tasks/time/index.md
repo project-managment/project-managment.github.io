@@ -54,7 +54,7 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -             | -         | -         | -         | -         | -         | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | 41h51min  | -         | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -         | -         | -     | -     |
-| 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | 37h 37min | 39h 47min | -         | -         | -     | -     |
+| 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | 37h 37min | 39h 47min | 39h 30min | 34h 30min | 36h 50min| 27h 50 min|
 | 15  | Matheus Henrique de Souza           | QualityTime   | 05h 17min | 05h 42min | 04h 58min | -         | -         | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | QualityTime   | 44h 32min | 42h 50min | 49h 47min | 30h 33min | 31h 52min | 39h 58min   | 35h 15min   |
 | 17  | Paulo Jeférson da Costa Gomes       | QualityTime   | 13h 14min | 23h 49min | 36h 23min | 45h 3min  | -         | -     | -     |
@@ -113,7 +113,7 @@
 | 11  | Juan Felipe Ibanez Ferreira         | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)       | WhatsApp (12h9min)       | WhatsApp (9h55min     | -                     | -     | -     |
 | 13  | Lucas Gabriel Amaro Pereira         | -                   | -                        | -                        | -                     | -                     | -     | -     |
-| 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                  | -                     | -                     | -     | -     |
+| 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                  | YouTube | YouTube | YouTube | YouTube |
 | 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp                 | Instagram                | WhatsApp              | -                     | -     | -     |
 | 16  | Max Thayrese Lira e Silva           | Youtube(8h 40m)             | Youtube(7h 55m)             | Facebook (3h 5m)             | Instagram(10h 16m)             | Instagram(10h 34m)             | Instagram(13h 0m)             | Facebook(7h 30m)             |
 | 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube                  | Chrome (14h 41min)       | Chrome (20h 44min)    | -                     | -     | -     |
