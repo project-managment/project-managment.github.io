@@ -24,7 +24,7 @@
 | 9   | Jackson Leandro Arruda Ferreira     | -             | -         | -         | -         | -         | -         | -         | -          |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid         | 19h 42min | -         | -         | -         | -         | -         | -          |
 | 11  | Juan Felipe Ibanez Ferreira         | -             | -         | -         | -         | -         | -         | -         | -          |
-| 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | 41h51min  | -         | -         | -          |
+| 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | 41h51min  | 42h6min   | 44h34min  | 47h41min.  |
 | 13  | Lucas Gabriel Amaro Pereira         | -             | -         | -         | -         | -         | -         | -         | -          |
 | 14  | Lucas Matthaus Fonseca da Silva     | QualityTime   | 4h 41m    | 37h 37min | 39h 47min | 39h 30min | 34h 30min | 36h 50min | 27h 50 min |
 | 15  | Matheus Henrique de Souza           | QualityTime   | 15h 17min | 15h 42min | 13h 58min | 14h 18min | 16h 17min | 11h 33min | 15h 56min  |
@@ -54,10 +54,10 @@
 | 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                        | -                     | -                     | -                  | -                  |
 | 11  | Juan Felipe Ibanez Ferreira         | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
-| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)       | WhatsApp (12h9min)       | WhatsApp (9h55min     | -                     | -                  | -                  |
+| 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  |Twitter (14h17min)        | WhatsApp (12h9min)       | WhatsApp (9h55min)    | WhatsApp (12h23min)   | Twitter (11h46min) | Twitter (10h42min) |
 | 13  | Lucas Gabriel Amaro Pereira         | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
 | 14  | Lucas Matthaus Fonseca da Silva     | Spotify             | YouTube                  | YouTube                  | YouTube               | YouTube               | YouTube            | YouTube            |
-| 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp                 | Instagram                | WhatsApp              | WhatsApp              | WhatsApp           | WhatsApp           | WhatsApp |
+| 15  | Matheus Henrique de Souza           | WhatsApp            | WhatsApp                 | Instagram                | WhatsApp              | WhatsApp              | WhatsApp           | WhatsApp           | 
 | 16  | Max Thayrese Lira e Silva           | Youtube(8h 40m)     | Youtube(7h 55m)          | Facebook (3h 5m)         | Instagram(10h 16m)    | Instagram(10h 34m)    | Instagram(13h 0m)  | Facebook(7h 30m)   |
 | 17  | Paulo Jeférson da Costa Gomes       | Chrome              | YouTube                  | Chrome (14h 41min)       | Chrome (20h 44min)    | YouTube (6h 50min)    | YouTube (8h 13min) | Twitter (7h 37min) |
 | 18  | Pedro Orlando de Albuquerque Duarte | -                   | -                        | -                        | -                     | -                     | -                  | -                  |
@@ -67,3 +67,4 @@
 | 22  | Tiago Caio de Oliveira Lisboa       | WhatsApp            | WhatsApp                 | WhatsApp                 | WhatsApp              | -                     | -                  | -                  |
 | 23  | Victor Wagner Dias Ribeiro          | -                   | Samsung Internet (5h49m) | Samsung Internet (8h21m) | Netflix (6h40m)       | WhatsApp (6h18m)      | -                  | -                  |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48)     | WhatsApp (6h02)          | WhatsApp (4h12)          | Clash of Clans (3h19) | Clash of clans (3h30) | -                  | -                  |
+
