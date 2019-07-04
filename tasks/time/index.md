@@ -17,7 +17,7 @@
 | 2   | Daniel Bruno Santos Brito           | -             | -         | -         | -         | -         | -         | -         | -          |
 | 3   | Davi Souto Neri                     | QualityTime   | 5h4 9min  | 50h 13min | 57h 49min | 47h 53min | 33h 50min | 33h 44min | 41h 32min  |
 | 4   | Dayane Vitoria Leandro Cruz         | QualityTime   | 12h 25min | 45h 27m   | 46h 4m    | 39h 23m   | 40h 58m   | 38h 50m   | 39h 39m    |
-| 5   | Emanoel Messias Gomes de Lima       | -             | -         | -         | -         | -         | -         | -         | -          |
+| 5   | Emanoel Messias Gomes de Lima       | QualityTime   | 8h 20min  | 4h 17min  | 6h 25min  | 8h 20min  | 9h 23min  |6h 20min          | -          |
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9    | 42h 8min  | 31h 31min | 33h 51min | 35h59min  | 43h 7min  | -         | -          |
 | 7   | Gésio de Moura                      | QualityTime   | 16h 18min | 41h 21min | 28h 16min | 40h 57min | 38h 56min | -         | -          |
 | 8   | Isaac Bruno Lima da Silva           | -             | -         | -         | -         | -         | -         | -         | -          |
